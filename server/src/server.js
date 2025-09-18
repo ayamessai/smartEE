@@ -30,36 +30,11 @@ app.use(
   })
 );
 app.use(express.json());
-
-// 🔽 Mets les logs ici pour savoir quelle route casse
-console.log("✅ Loading routes...");
-
-app.use("/api/auth", authRoutes);
-console.log("auth ok");
-
-app.use("/api/products", productRoutes);
-console.log("products ok");
-
-app.use("/api/basket", basketRoutes);
-console.log("basket ok");
-
-app.use("/api/repairmen", repairmenRoutes);
-console.log("repairmen ok");
-
-app.use("/api/notifications", notificationsRoutes);
-console.log("notifications ok");
-
-app.use("/api/orders", orderRoutes);
-console.log("orders ok");
-
-
-
-
 app.use(cookieParser());
 app.use(morgan("dev"));
 
 // API Routes
-app.get("/api/health", (req, res) => res.json({ ok: true }));
+console.log("✅ Loading routes...");
 app.use("/api/auth", authRoutes);
 app.use("/api/products", productRoutes);
 app.use("/api/basket", basketRoutes);
@@ -67,17 +42,29 @@ app.use("/api/repairmen", repairmenRoutes);
 app.use("/api/notifications", notificationsRoutes);
 app.use("/api/orders", orderRoutes);
 
-// Définir __dirname (car on est en ESM)
+// Health check
+app.get("/api/health", (req, res) => res.json({ ok: true }));
+
+// ------------------------------------------------------------
+// Serve frontend build (React/Vite)
+// ------------------------------------------------------------
+
+// Needed because we’re in ESM (no __dirname)
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-// New code: serve frontend from mounted location
-app.use(express.static("/app/client/dist"));
-app.use((req, res) => {
-  res.sendFile("/app/client/dist/index.html");
+// Serve static files from the client/dist folder
+const clientPath = path.join(__dirname, "client", "dist");
+app.use(express.static(clientPath));
+
+// All other routes → index.html (SPA support)
+app.get("*", (req, res) => {
+  res.sendFile(path.resolve(clientPath, "index.html"));
 });
 
-// Lancer le serveur
+// ------------------------------------------------------------
+// Start server
+// ------------------------------------------------------------
 const PORT = process.env.PORT || 4000;
 const MONGODB_URI =
   process.env.MONGODB_URI || "mongodb://localhost:27017/eco_electro";
