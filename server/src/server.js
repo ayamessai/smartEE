@@ -20,13 +20,15 @@ const app = express();
 // Middlewares
 app.use(
   cors({
-    origin: process.env.CLIENT_URLS?.split(",") || [
-      "http://localhost:5173",
-      "http://localhost:5174",
+    origin: [
+      "https://smartee-frontend.onrender.com", // frontend live
+      "http://localhost:5173",                 // local dev
+      "http://localhost:5174"
     ],
     credentials: true,
   })
 );
+
 app.use(express.json());
 app.use(cookieParser());
 app.use(morgan("dev"));
