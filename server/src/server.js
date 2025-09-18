@@ -5,8 +5,6 @@ import mongoose from "mongoose";
 import cors from "cors";
 import cookieParser from "cookie-parser";
 import morgan from "morgan";
-import path from "path";
-import { fileURLToPath } from "url";
 
 // Routes
 import authRoutes from "./routes/auth.js";
@@ -44,23 +42,6 @@ app.use("/api/orders", orderRoutes);
 
 // Health check
 app.get("/api/health", (req, res) => res.json({ ok: true }));
-
-// ------------------------------------------------------------
-// Serve frontend build (React/Vite)
-// ------------------------------------------------------------
-
-// Needed because we’re in ESM (no __dirname)
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = path.dirname(__filename);
-
-// Serve static files from the client/dist folder
-const clientPath = path.join(__dirname, "client", "dist");
-app.use(express.static(clientPath));
-
-// All other routes → index.html (SPA support)
-app.get("*", (req, res) => {
-  res.sendFile(path.resolve(clientPath, "index.html"));
-});
 
 // ------------------------------------------------------------
 // Start server
