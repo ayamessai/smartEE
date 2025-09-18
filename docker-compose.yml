@@ -1,0 +1,38 @@
+services:
+  api:
+    build: .
+    container_name: eco-electro-api
+    ports:
+      - "4000:4000"
+    depends_on:
+      - mongo
+    environment:
+      PORT: 4000
+      MONGODB_URI: mongodb://mongo:27017/eco_electro
+      CLIENT_URLS: http://localhost:4000
+    volumes:
+      - server-data:/app/server
+      - /app/server/node_modules
+      - client-dist:/app/client/dist
+
+    networks:
+      - eco-net
+
+  mongo:
+    image: mongo:8
+    container_name: eco-electro-mongo
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo-data:/data/db
+      - ./mongo-init:/docker-entrypoint-initdb.d:ro
+    networks:
+      - eco-net
+
+volumes:
+  mongo-data:
+  server-data:
+  client-dist:
+
+networks:
+  eco-net:

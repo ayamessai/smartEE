@@ -1,0 +1,3053 @@
+{
+  "lave_linges": [
+    {
+      "marque": "BEKO",
+      "modele": "B5DFT810542MG",
+      "reference": "B5DFT810542MG",
+      "prix_dzd": 85000,
+      "couleur": "Gris",
+      "categorie": "Frontal",
+      "type_pose": "Pose Libre",
+      "type_moteur": "Inverter",
+      "type_lave_linge": "Automatique",
+      "capacite_chargement_kg": 10.5,
+      "vitesse_essorage_tr_min": 1400,
+      "programmes_fonctions": {
+        "nombre_programmes": 15,
+        "sechant": true,
+        "prelavage": true,
+        "essorage": true,
+        "rinçage": true,
+        "thermostat_reglable": false,
+        "ecran": "Digital",
+        "verrouillage_enfant": true
+      },
+      "consommation": {
+        "energie": "1360 kWh/an",
+        "classe_energetique": "A"
+      },
+      "dimensions": {
+        "largeur_cm": 60,
+        "hauteur_cm": 84.5,
+        "profondeur_cm": 60,
+        "poids_kg": 76.3
+      },
+        "category": "washing-machine"
+    },
+    {
+      "marque": "BEKO",
+      "modele": "B3WFT51242MG",
+      "reference": "B3WFT51242MG",
+      "prix_dzd": 78000,
+      "couleur": "Manhattan grey",
+      "categorie": "Frontal",
+      "type_pose": "Pose Libre",
+      "type_moteur": "Inverter",
+      "type_lave_linge": "Automatique",
+      "capacite_chargement_kg": 12,
+      "vitesse_essorage_tr_min": 1400,
+      "programmes_fonctions": {
+        "nombre_programmes": 15,
+        "details": [
+          "Coton", "Coton Eco", "Synthétique", "Express 14'", "Laine/Lavage à la main",
+          "DarkWash/Jeans", "Programmes téléchargeables", "Essorage + Vidange",
+          "Rinçage", "Outdoor / Sport", "Expert Taches", "Hygiène+",
+          "Couette / Doudoune", "Chemises", "SteamCure"
+        ],
+        "sechant": false,
+        "prelavage": true,
+        "essorage": true,
+        "rinçage": true,
+        "thermostat_reglable": null,
+        "ecran": "Digital",
+        "verrouillage_enfant": true
+      },
+      "consommation": {
+        "eau_par_cycle_l": 13045,
+        "energie": "252 kWh",
+        "classe_energetique": "A+++"
+      },
+      "dimensions": {
+        "largeur_cm": 60,
+        "hauteur_cm": 84.5,
+        "profondeur_cm": 63,
+        "poids_kg": 78
+      },
+        "category": "washing-machine"
+    },
+    {
+        "marque": "BEKO",
+        "modele": "WTV8736XC0M",
+        "reference": "WTV8736XC0M",
+        "prix_dzd": null,
+        "couleur": "Silver",
+        "categorie": "Frontal",
+        "type_pose": "Pose Libre",
+        "type_moteur": "ProSmart Inverter",
+        "type_lave_linge": "Automatique",
+        "capacite_chargement_kg": 8,
+        "vitesse_essorage_tr_min": 1400,
+        "programmes_fonctions": {
+          "nombre_programmes": null,
+          "details": null,
+          "sechant": false,
+          "prelavage": true,
+          "essorage": true,
+          "rinçage": true,
+          "thermostat_reglable": null,
+          "ecran": "Digital",
+          "verrouillage_enfant": true
+        },
+        "consommation": {
+          "eau_par_cycle_l": null,
+          "energie": null,
+          "classe_energetique": "A+++"
+        },
+        "dimensions": {
+          "largeur_cm": 60,
+          "hauteur_cm": 84,
+          "profondeur_cm": 54,
+          "poids_kg": null
+        },
+        "category": "washing-machine"
+      },
+      {
+        "marque": "BEKO",
+        "modele": "WTV8736XC0M",
+        "reference": "WTV8736XC0M",
+        "prix_dzd": null,
+        "couleur": "Silver",
+        "categorie": "Frontal",
+        "type_pose": "Pose Libre",
+        "type_moteur": "ProSmart Inverter",
+        "type_lave_linge": "Automatique",
+        "capacite_chargement_kg": 8,
+        "vitesse_essorage_tr_min": 1400,
+        "programmes_fonctions": {
+          "nombre_programmes": null,
+          "details": null,
+          "sechant": false,
+          "prelavage": true,
+          "essorage": true,
+          "rinçage": true,
+          "thermostat_reglable": null,
+          "ecran": "Digital",
+          "verrouillage_enfant": true
+        },
+        "consommation": {
+          "eau_par_cycle_l": null,
+          "energie": null,
+          "classe_energetique": "A+++"
+        },
+        "dimensions": {
+          "largeur_cm": 60,
+          "hauteur_cm": 84,
+          "profondeur_cm": 54,
+          "poids_kg": null
+        },
+        "category": "washing-machine"
+      },
+      {
+        "marque": "BEKO",
+        "modele": "WTV9746XCM",
+        "reference": "WTV9746XCM",
+        "prix_dzd": 90000,
+        "couleur": "Silver",
+        "categorie": "Frontal",
+        "type_pose": "Pose Libre",
+        "type_moteur": "Inverter",
+        "type_lave_linge": "Automatique",
+        "capacite_chargement_kg": 9,
+        "vitesse_essorage_tr_min": 1400,
+        "programmes_fonctions": {
+          "nombre_programmes": 16,
+          "details": [
+            "Coton",
+            "Coton Eco",
+            "Synthétique",
+            "Mix",
+            "Laine",
+            "Rinçage",
+            "Essorage + Vidange",
+            "Hygiène+",
+            "Couette",
+            "Chemises",
+            "Sport",
+            "Express",
+            "Jean",
+            "Sombre",
+            "Programme Téléchargeable",
+            "Nettoyage tambour"
+          ],
+          "sechant": false,
+          "prelavage": true,
+          "essorage": true,
+          "rinçage": true,
+          "thermostat_reglable": null,
+          "ecran": "Digital",
+          "verrouillage_enfant": true
+        },
+        "consommation": {
+          "eau_par_cycle_l": null,
+          "energie": "196 kWh",
+          "classe_energetique": "A+++"
+        },
+        "dimensions": {
+          "largeur_cm": 60,
+          "hauteur_cm": 84,
+          "profondeur_cm": 64,
+          "poids_kg": 75
+        },
+        "category": "washing-machine"
+      },
+      {
+        "marque": "BEKO",
+        "modele": "B3WFT59415W",
+        "reference": "B3WFT59415W",
+        "prix_dzd": 78000,
+        "couleur": "Blanc",
+        "categorie": "Frontal",
+        "type_pose": "Pose Libre",
+        "type_moteur": "Inverter",
+        "type_lave_linge": "Automatique",
+        "capacite_chargement_kg": 9,
+        "vitesse_essorage_tr_min": 1400,
+        "programmes_fonctions": {
+          "nombre_programmes": 15,
+          "details": [
+            "Coton",
+            "Coton Eco",
+            "Synthétique",
+            "Express 14'",
+            "Laine/Lavage à la main",
+            "DarkWash/Jeans",
+            "Programme téléchargeable",
+            "Essorage + Vidange",
+            "Rinçage",
+            "Outdoor / Sport",
+            "Expert Taches",
+            "Hygiène+",
+            "Couette / Doudoune",
+            "Chemises",
+            "SteamCure"
+          ],
+          "sechant": false,
+          "prelavage": true,
+          "essorage": true,
+          "rinçage": true,
+          "thermostat_reglable": null,
+          "ecran": "Digital",
+          "verrouillage_enfant": true
+        },
+        "consommation": {
+          "eau_par_cycle_l": null,
+          "energie": "152 kWh",
+          "classe_energetique": "A+++"
+        },
+        "dimensions": {
+          "largeur_cm": 60,
+          "hauteur_cm": 84,
+          "profondeur_cm": 64,
+          "poids_kg": 74
+        },
+        "category": "washing-machine"
+      },
+      {
+        "marque": "BEKO",
+        "modele": "B3WFT59415S",
+        "reference": "B3WFT59415S",
+        "prix_dzd": 79000,
+        "couleur": "Silver",
+        "categorie": "Frontal",
+        "type_pose": "Pose Libre",
+        "type_moteur": "Inverter",
+        "type_lave_linge": "Automatique",
+        "capacite_chargement_kg": 9,
+        "vitesse_essorage_tr_min": 1400,
+        "programmes_fonctions": {
+          "nombre_programmes": 15,
+          "details": [
+            "Coton",
+            "Coton Eco",
+            "Synthétique",
+            "Express 14'",
+            "Laine/Lavage à la main",
+            "DarkWash/Jeans",
+            "Programme téléchargeable",
+            "Essorage + Vidange",
+            "Rinçage",
+            "Outdoor / Sport",
+            "Expert Taches",
+            "Hygiène+",
+            "Couette / Doudoune",
+            "Chemises",
+            "SteamCure"
+          ],
+          "sechant": false,
+          "prelavage": true,
+          "essorage": true,
+          "rinçage": true,
+          "thermostat_reglable": null,
+          "ecran": "Digital",
+          "verrouillage_enfant": true
+        },
+        "consommation": {
+          "eau_par_cycle_l": null,
+          "energie": "152 kWh",
+          "classe_energetique": "A+++"
+        },
+        "dimensions": {
+          "largeur_cm": 60,
+          "hauteur_cm": 84,
+          "profondeur_cm": 64,
+          "poids_kg": 74
+        },
+        "category": "washing-machine"
+      },
+      {
+        "marque": "BEKO",
+        "modele": "B5WFT510421W",
+        "reference": "B5WFT510421W",
+        "prix_dzd": 85000,
+        "couleur": "Blanc",
+        "categorie": "Frontal",
+        "type_pose": "Pose Libre",
+        "type_moteur": "Inverter",
+        "type_lave_linge": "Automatique",
+        "capacite_chargement_kg": 10,
+        "vitesse_essorage_tr_min": 1400,
+        "programmes_fonctions": {
+          "nombre_programmes": 15,
+          "details": [
+            "Coton",
+            "Coton Eco",
+            "Synthétique",
+            "Express 14'",
+            "Laine/Lavage à la main",
+            "DarkWash/Jeans",
+            "Programme téléchargeable",
+            "Essorage + Vidange",
+            "Rinçage",
+            "Outdoor / Sport",
+            "Expert Taches",
+            "Hygiène+",
+            "Couette / Doudoune",
+            "Chemises",
+            "SteamCure"
+          ],
+          "sechant": false,
+          "prelavage": true,
+          "essorage": true,
+          "rinçage": true,
+          "thermostat_reglable": null,
+          "ecran": "Digital",
+          "verrouillage_enfant": true
+        },
+        "consommation": {
+          "eau_par_cycle_l": null,
+          "energie": "172 kWh",
+          "classe_energetique": "A+++"
+        },
+        "dimensions": {
+          "largeur_cm": 60,
+          "hauteur_cm": 84,
+          "profondeur_cm": 64,
+          "poids_kg": 76
+        },
+        "category": "washing-machine"
+      },
+      {
+        "marque": "BEKO",
+        "modele": "B3WFT510421S",
+        "reference": "B3WFT510421S",
+        "prix_dzd": 86000,
+        "couleur": "Silver",
+        "categorie": "Frontal",
+        "type_pose": "Pose Libre",
+        "type_moteur": "Inverter",
+        "type_lave_linge": "Automatique",
+        "capacite_chargement_kg": 10,
+        "vitesse_essorage_tr_min": 1400,
+        "programmes_fonctions": {
+          "nombre_programmes": 15,
+          "details": [
+            "Coton",
+            "Coton Eco",
+            "Synthétique",
+            "Express 14'",
+            "Laine/Lavage à la main",
+            "DarkWash/Jeans",
+            "Programme téléchargeable",
+            "Essorage + Vidange",
+            "Rinçage",
+            "Outdoor / Sport",
+            "Expert Taches",
+            "Hygiène+",
+            "Couette / Doudoune",
+            "Chemises",
+            "SteamCure"
+          ],
+          "sechant": false,
+          "prelavage": true,
+          "essorage": true,
+          "rinçage": true,
+          "thermostat_reglable": null,
+          "ecran": "Digital",
+          "verrouillage_enfant": true
+        },
+        "consommation": {
+          "eau_par_cycle_l": null,
+          "energie": "172 kWh",
+          "classe_energetique": "A+++"
+        },
+        "dimensions": {
+          "largeur_cm": 60,
+          "hauteur_cm": 84,
+          "profondeur_cm": 64,
+          "poids_kg": 76
+        },
+        "category": "washing-machine"
+      },
+      {
+        "marque": "BEKO",
+        "modele": "B5WFT510421S",
+        "reference": "B5WFT510421S",
+        "prix_dzd": 87000,
+        "couleur": "Silver",
+        "categorie": "Frontal",
+        "type_pose": "Pose Libre",
+        "type_moteur": "Inverter",
+        "type_lave_linge": "Automatique",
+        "capacite_chargement_kg": 10,
+        "vitesse_essorage_tr_min": 1400,
+        "programmes_fonctions": {
+          "nombre_programmes": 15,
+          "details": [
+            "Coton",
+            "Coton Eco",
+            "Synthétique",
+            "Express 14'",
+            "Laine/Lavage à la main",
+            "DarkWash/Jeans",
+            "Programme téléchargeable",
+            "Essorage + Vidange",
+            "Rinçage",
+            "Outdoor / Sport",
+            "Expert Taches",
+            "Hygiène+",
+            "Couette / Doudoune",
+            "Chemises",
+            "SteamCure"
+          ],
+          "sechant": false,
+          "prelavage": true,
+          "essorage": true,
+          "rinçage": true,
+          "thermostat_reglable": null,
+          "ecran": "Digital",
+          "verrouillage_enfant": true
+        },
+        "consommation": {
+          "eau_par_cycle_l": null,
+          "energie": "172 kWh",
+          "classe_energetique": "A+++"
+        },
+        "dimensions": {
+          "largeur_cm": 60,
+          "hauteur_cm": 84,
+          "profondeur_cm": 64,
+          "poids_kg": 76
+        },
+        "category": "washing-machine"
+      },
+      {
+        "marque": "BEKO",
+        "modele": "B3WFT58415W",
+        "reference": "B3WFT58415W",
+        "prix_dzd": 75000,
+        "couleur": "Blanc",
+        "categorie": "Frontal",
+        "type_pose": "Pose Libre",
+        "type_moteur": "Inverter",
+        "type_lave_linge": "Automatique",
+        "capacite_chargement_kg": 8,
+        "vitesse_essorage_tr_min": 1400,
+        "programmes_fonctions": {
+          "nombre_programmes": 15,
+          "details": [
+            "Coton",
+            "Coton Eco",
+            "Synthétique",
+            "Express 14'",
+            "Laine/Lavage à la main",
+            "DarkWash/Jeans",
+            "Programme téléchargeable",
+            "Essorage + Vidange",
+            "Rinçage",
+            "Outdoor / Sport",
+            "Expert Taches",
+            "Hygiène+",
+            "Couette / Doudoune",
+            "Chemises",
+            "SteamCure"
+          ],
+          "sechant": false,
+          "prelavage": true,
+          "essorage": true,
+          "rinçage": true,
+          "thermostat_reglable": null,
+          "ecran": "Digital",
+          "verrouillage_enfant": true
+        },
+        "consommation": {
+          "eau_par_cycle_l": null,
+          "energie": "152 kWh",
+          "classe_energetique": "A+++"
+        },
+        "dimensions": {
+          "largeur_cm": 60,
+          "hauteur_cm": 84,
+          "profondeur_cm": 64,
+          "poids_kg": 73
+        },
+        "category": "washing-machine"
+      },
+      {
+        "marque": "BEKO",
+        "modele": "B3WFT58415S",
+        "reference": "B3WFT58415S",
+        "prix_dzd": 76000,
+        "couleur": "Silver",
+        "categorie": "Frontal",
+        "type_pose": "Pose Libre",
+        "type_moteur": "Inverter",
+        "type_lave_linge": "Automatique",
+        "capacite_chargement_kg": 8,
+        "vitesse_essorage_tr_min": 1400,
+        "programmes_fonctions": {
+          "nombre_programmes": 15,
+          "details": [
+            "Coton",
+            "Coton Eco",
+            "Synthétique",
+            "Express 14'",
+            "Laine/Lavage à la main",
+            "DarkWash/Jeans",
+            "Programme téléchargeable",
+            "Essorage + Vidange",
+            "Rinçage",
+            "Outdoor / Sport",
+            "Expert Taches",
+            "Hygiène+",
+            "Couette / Doudoune",
+            "Chemises",
+            "SteamCure"
+          ],
+          "sechant": false,
+          "prelavage": true,
+          "essorage": true,
+          "rinçage": true,
+          "thermostat_reglable": null,
+          "ecran": "Digital",
+          "verrouillage_enfant": true
+        },
+        "consommation": {
+          "eau_par_cycle_l": null,
+          "energie": "152 kWh",
+          "classe_energetique": "A+++"
+        },
+        "dimensions": {
+          "largeur_cm": 60,
+          "hauteur_cm": 84,
+          "profondeur_cm": 64,
+          "poids_kg": 73
+        },
+        "category": "washing-machine"
+      },
+      {
+        "marque": "BEKO",
+        "modele": "B3WFT510421W",
+        "reference": "B3WFT510421W",
+        "prix_dzd": 83000,
+        "couleur": "Blanc",
+        "categorie": "Frontal",
+        "type_pose": "Pose Libre",
+        "type_moteur": "Inverter",
+        "type_lave_linge": "Automatique",
+        "capacite_chargement_kg": 10,
+        "vitesse_essorage_tr_min": 1400,
+        "programmes_fonctions": {
+          "nombre_programmes": 15,
+          "details": [
+            "Coton",
+            "Coton Eco",
+            "Synthétique",
+            "Express 14'",
+            "Laine/Lavage à la main",
+            "DarkWash/Jeans",
+            "Programme téléchargeable",
+            "Essorage + Vidange",
+            "Rinçage",
+            "Outdoor / Sport",
+            "Expert Taches",
+            "Hygiène+",
+            "Couette / Doudoune",
+            "Chemises",
+            "SteamCure"
+          ],
+          "sechant": false,
+          "prelavage": true,
+          "essorage": true,
+          "rinçage": true,
+          "thermostat_reglable": null,
+          "ecran": "Digital",
+          "verrouillage_enfant": true
+        },
+        "consommation": {
+          "eau_par_cycle_l": null,
+          "energie": "172 kWh",
+          "classe_energetique": "A+++"
+        },
+        "dimensions": {
+          "largeur_cm": 60,
+          "hauteur_cm": 84,
+          "profondeur_cm": 64,
+          "poids_kg": 76
+        },
+        "category": "washing-machine"
+      },
+      {
+        "marque": "BEKO",
+        "modele": "B5WFT58415W",
+        "reference": "B5WFT58415W",
+        "prix_dzd": 78000,
+        "couleur": "Blanc",
+        "categorie": "Frontal",
+        "type_pose": "Pose Libre",
+        "type_moteur": "Inverter",
+        "type_lave_linge": "Automatique",
+        "capacite_chargement_kg": 8,
+        "vitesse_essorage_tr_min": 1400,
+        "programmes_fonctions": {
+          "nombre_programmes": 15,
+          "details": [
+            "Coton",
+            "Coton Eco",
+            "Synthétique",
+            "Express 14'",
+            "Laine/Lavage à la main",
+            "DarkWash/Jeans",
+            "Programme téléchargeable",
+            "Essorage + Vidange",
+            "Rinçage",
+            "Outdoor / Sport",
+            "Expert Taches",
+            "Hygiène+",
+            "Couette / Doudoune",
+            "Chemises",
+            "SteamCure"
+          ],
+          "sechant": false,
+          "prelavage": true,
+          "essorage": true,
+          "rinçage": true,
+          "thermostat_reglable": null,
+          "ecran": "Digital",
+          "verrouillage_enfant": true
+        },
+        "consommation": {
+          "eau_par_cycle_l": null,
+          "energie": "152 kWh",
+          "classe_energetique": "A+++"
+        },
+        "dimensions": {
+          "largeur_cm": 60,
+          "hauteur_cm": 84,
+          "profondeur_cm": 64,
+          "poids_kg": 73
+        },
+        "category": "washing-machine"
+      },
+      {
+        "marque": "BEKO",
+        "modele": "B5WFT58415S",
+        "reference": "B5WFT58415S",
+        "prix_dzd": 79000,
+        "couleur": "Silver",
+        "categorie": "Frontal",
+        "type_pose": "Pose Libre",
+        "type_moteur": "Inverter",
+        "type_lave_linge": "Automatique",
+        "capacite_chargement_kg": 8,
+        "vitesse_essorage_tr_min": 1400,
+        "programmes_fonctions": {
+          "nombre_programmes": 15,
+          "details": [
+            "Coton",
+            "Coton Eco",
+            "Synthétique",
+            "Express 14'",
+            "Laine/Lavage à la main",
+            "DarkWash/Jeans",
+            "Programme téléchargeable",
+            "Essorage + Vidange",
+            "Rinçage",
+            "Outdoor / Sport",
+            "Expert Taches",
+            "Hygiène+",
+            "Couette / Doudoune",
+            "Chemises",
+            "SteamCure"
+          ],
+          "sechant": false,
+          "prelavage": true,
+          "essorage": true,
+          "rinçage": true,
+          "thermostat_reglable": null,
+          "ecran": "Digital",
+          "verrouillage_enfant": true
+        },
+        "consommation": {
+          "eau_par_cycle_l": null,
+          "energie": "152 kWh",
+          "classe_energetique": "A+++"
+        },
+        "dimensions": {
+          "largeur_cm": 60,
+          "hauteur_cm": 84,
+          "profondeur_cm": 64,
+          "poids_kg": 73
+        },
+        "category": "washing-machine"
+      },
+      {
+        "marque": "BEKO",
+        "modele": "B5WFT510421W",
+        "reference": "B5WFT510421W",
+        "prix_dzd": 89000,
+        "couleur": "Blanc",
+        "categorie": "Frontal",
+        "type_pose": "Pose Libre",
+        "type_moteur": "Inverter",
+        "type_lave_linge": "Automatique",
+        "capacite_chargement_kg": 10,
+        "vitesse_essorage_tr_min": 1400,
+        "programmes_fonctions": {
+          "nombre_programmes": 15,
+          "details": [
+            "Coton",
+            "Coton Eco",
+            "Synthétique",
+            "Express 14'",
+            "Laine/Lavage à la main",
+            "DarkWash/Jeans",
+            "Programme téléchargeable",
+            "Essorage + Vidange",
+            "Rinçage",
+            "Outdoor / Sport",
+            "Expert Taches",
+            "Hygiène+",
+            "Couette / Doudoune",
+            "Chemises",
+            "SteamCure"
+          ],
+          "sechant": false,
+          "prelavage": true,
+          "essorage": true,
+          "rinçage": true,
+          "thermostat_reglable": null,
+          "ecran": "Digital",
+          "verrouillage_enfant": true
+        },
+        "consommation": {
+          "eau_par_cycle_l": null,
+          "energie": "172 kWh",
+          "classe_energetique": "A+++"
+        },
+        "dimensions": {
+          "largeur_cm": 60,
+          "hauteur_cm": 84,
+          "profondeur_cm": 64,
+          "poids_kg": 76
+        },
+        "category": "washing-machine"
+      },
+      {
+        "marque": "BEKO",
+        "modele": "B3WFT59615W",
+        "reference": "B3WFT59615W",
+        "prix_dzd": 94000,
+        "couleur": "Blanc",
+        "categorie": "Frontal",
+        "type_pose": "Pose Libre",
+        "type_moteur": "Inverter",
+        "type_lave_linge": "Automatique",
+        "capacite_chargement_kg": 9,
+        "vitesse_essorage_tr_min": 1600,
+        "programmes_fonctions": {
+          "nombre_programmes": 15,
+          "details": [
+            "Coton",
+            "Coton Eco",
+            "Synthétique",
+            "Express 14'",
+            "Laine/Lavage à la main",
+            "DarkWash/Jeans",
+            "Programme téléchargeable",
+            "Essorage + Vidange",
+            "Rinçage",
+            "Outdoor / Sport",
+            "Expert Taches",
+            "Hygiène+",
+            "Couette / Doudoune",
+            "Chemises",
+            "SteamCure"
+          ],
+          "sechant": false,
+          "prelavage": true,
+          "essorage": true,
+          "rinçage": true,
+          "thermostat_reglable": null,
+          "ecran": "Digital",
+          "verrouillage_enfant": true
+        },
+        "consommation": {
+          "eau_par_cycle_l": null,
+          "energie": "190 kWh",
+          "classe_energetique": "A+++"
+        },
+        "dimensions": {
+          "largeur_cm": 60,
+          "hauteur_cm": 84,
+          "profondeur_cm": 64,
+          "poids_kg": 74
+        },
+        "category": "washing-machine"
+      },
+      {
+        "marque": "BEKO",
+        "modele": "B3WFT59615S",
+        "reference": "B3WFT59615S",
+        "prix_dzd": 95000,
+        "couleur": "Silver",
+        "categorie": "Frontal",
+        "type_pose": "Pose Libre",
+        "type_moteur": "Inverter",
+        "type_lave_linge": "Automatique",
+        "capacite_chargement_kg": 9,
+        "vitesse_essorage_tr_min": 1600,
+        "programmes_fonctions": {
+          "nombre_programmes": 15,
+          "details": [
+            "Coton",
+            "Coton Eco",
+            "Synthétique",
+            "Express 14'",
+            "Laine/Lavage à la main",
+            "DarkWash/Jeans",
+            "Programme téléchargeable",
+            "Essorage + Vidange",
+            "Rinçage",
+            "Outdoor / Sport",
+            "Expert Taches",
+            "Hygiène+",
+            "Couette / Doudoune",
+            "Chemises",
+            "SteamCure"
+          ],
+          "sechant": false,
+          "prelavage": true,
+          "essorage": true,
+          "rinçage": true,
+          "thermostat_reglable": null,
+          "ecran": "Digital",
+          "verrouillage_enfant": true
+        },
+        "consommation": {
+          "eau_par_cycle_l": null,
+          "energie": "190 kWh",
+          "classe_energetique": "A+++"
+        },
+        "dimensions": {
+          "largeur_cm": 60,
+          "hauteur_cm": 84,
+          "profondeur_cm": 64,
+          "poids_kg": 74
+        },
+        "category": "washing-machine"
+      },
+      {
+        "marque": "BEKO",
+        "modele": "B5WFT510521W",
+        "reference": "B5WFT510521W",
+        "prix_dzd": 91000,
+        "couleur": "Blanc",
+        "categorie": "Frontal",
+        "type_pose": "Pose Libre",
+        "type_moteur": "Inverter",
+        "type_lave_linge": "Automatique",
+        "capacite_chargement_kg": 10,
+        "vitesse_essorage_tr_min": 1500,
+        "programmes_fonctions": {
+          "nombre_programmes": 15,
+          "details": [
+            "Coton",
+            "Coton Eco",
+            "Synthétique",
+            "Express 14'",
+            "Laine/Lavage à la main",
+            "DarkWash/Jeans",
+            "Programme téléchargeable",
+            "Essorage + Vidange",
+            "Rinçage",
+            "Outdoor / Sport",
+            "Expert Taches",
+            "Hygiène+",
+            "Couette / Doudoune",
+            "Chemises",
+            "SteamCure"
+          ],
+          "sechant": false,
+          "prelavage": true,
+          "essorage": true,
+          "rinçage": true,
+          "thermostat_reglable": null,
+          "ecran": "Digital",
+          "verrouillage_enfant": true
+        },
+        "consommation": {
+          "eau_par_cycle_l": null,
+          "energie": "165 kWh",
+          "classe_energetique": "A+++"
+        },
+        "dimensions": {
+          "largeur_cm": 60,
+          "hauteur_cm": 84,
+          "profondeur_cm": 64,
+          "poids_kg": 77
+        },
+        "category": "washing-machine"
+      },
+      {
+        "marque": "BEKO",
+        "modele": "B5WFT510521S",
+        "reference": "B5WFT510521S",
+        "prix_dzd": 92000,
+        "couleur": "Silver",
+        "categorie": "Frontal",
+        "type_pose": "Pose Libre",
+        "type_moteur": "Inverter",
+        "type_lave_linge": "Automatique",
+        "capacite_chargement_kg": 10,
+        "vitesse_essorage_tr_min": 1500,
+        "programmes_fonctions": {
+          "nombre_programmes": 15,
+          "details": [
+            "Coton",
+            "Coton Eco",
+            "Synthétique",
+            "Express 14'",
+            "Laine/Lavage à la main",
+            "DarkWash/Jeans",
+            "Programme téléchargeable",
+            "Essorage + Vidange",
+            "Rinçage",
+            "Outdoor / Sport",
+            "Expert Taches",
+            "Hygiène+",
+            "Couette / Doudoune",
+            "Chemises",
+            "SteamCure"
+          ],
+          "sechant": false,
+          "prelavage": true,
+          "essorage": true,
+          "rinçage": true,
+          "thermostat_reglable": null,
+          "ecran": "Digital",
+          "verrouillage_enfant": true
+        },
+        "consommation": {
+          "eau_par_cycle_l": null,
+          "energie": "165 kWh",
+          "classe_energetique": "A+++"
+        },
+        "dimensions": {
+          "largeur_cm": 60,
+          "hauteur_cm": 84,
+          "profondeur_cm": 64,
+          "poids_kg": 77
+        },
+        "category": "washing-machine"
+      },
+      {
+        "marque": "BEKO",
+        "modele": "B5WFT58415W",
+        "reference": "B5WFT58415W",
+        "prix_dzd": 77000,
+        "couleur": "Blanc",
+        "categorie": "Frontal",
+        "type_pose": "Pose Libre",
+        "type_moteur": "Inverter",
+        "type_lave_linge": "Automatique",
+        "capacite_chargement_kg": 8,
+        "vitesse_essorage_tr_min": 1400,
+        "programmes_fonctions": {
+          "nombre_programmes": 15,
+          "details": [
+            "Coton",
+            "Coton Eco",
+            "Synthétique",
+            "Express 14'",
+            "Laine/Lavage à la main",
+            "DarkWash/Jeans",
+            "Programme téléchargeable",
+            "Essorage + Vidange",
+            "Rinçage",
+            "Outdoor / Sport",
+            "Expert Taches",
+            "Hygiène+",
+            "Couette / Doudoune",
+            "Chemises",
+            "SteamCure"
+          ],
+          "sechant": false,
+          "prelavage": true,
+          "essorage": true,
+          "rinçage": true,
+          "thermostat_reglable": null,
+          "ecran": "Digital",
+          "verrouillage_enfant": true
+        },
+        "consommation": {
+          "eau_par_cycle_l": null,
+          "energie": "152 kWh",
+          "classe_energetique": "A+++"
+        },
+        "dimensions": {
+          "largeur_cm": 60,
+          "hauteur_cm": 84,
+          "profondeur_cm": 64,
+          "poids_kg": 73
+        },
+        "category": "washing-machine"
+      },
+      {
+        "marque": "BEKO",
+        "modele": "B5WFT58415S",
+        "reference": "B5WFT58415S",
+        "prix_dzd": 78000,
+        "couleur": "Silver",
+        "categorie": "Frontal",
+        "type_pose": "Pose Libre",
+        "type_moteur": "Inverter",
+        "type_lave_linge": "Automatique",
+        "capacite_chargement_kg": 8,
+        "vitesse_essorage_tr_min": 1400,
+        "programmes_fonctions": {
+          "nombre_programmes": 15,
+          "details": [
+            "Coton",
+            "Coton Eco",
+            "Synthétique",
+            "Express 14'",
+            "Laine/Lavage à la main",
+            "DarkWash/Jeans",
+            "Programme téléchargeable",
+            "Essorage + Vidange",
+            "Rinçage",
+            "Outdoor / Sport",
+            "Expert Taches",
+            "Hygiène+",
+            "Couette / Doudoune",
+            "Chemises",
+            "SteamCure"
+          ],
+          "sechant": false,
+          "prelavage": true,
+          "essorage": true,
+          "rinçage": true,
+          "thermostat_reglable": null,
+          "ecran": "Digital",
+          "verrouillage_enfant": true
+        },
+        "consommation": {
+          "eau_par_cycle_l": null,
+          "energie": "152 kWh",
+          "classe_energetique": "A+++"
+        },
+        "dimensions": {
+          "largeur_cm": 60,
+          "hauteur_cm": 84,
+          "profondeur_cm": 64,
+          "poids_kg": 73
+        },
+        "category": "washing-machine"
+      },
+      {
+        "marque": "BEKO",
+        "modele": "B5WFT510421S",
+        "reference": "B5WFT510421S",
+        "prix_dzd": 90000,
+        "couleur": "Silver",
+        "categorie": "Frontal",
+        "type_pose": "Pose Libre",
+        "type_moteur": "Inverter",
+        "type_lave_linge": "Automatique",
+        "capacite_chargement_kg": 10,
+        "vitesse_essorage_tr_min": 1400,
+        "programmes_fonctions": {
+          "nombre_programmes": 15,
+          "details": [
+            "Coton",
+            "Coton Eco",
+            "Synthétique",
+            "Express 14'",
+            "Laine/Lavage à la main",
+            "DarkWash/Jeans",
+            "Programme téléchargeable",
+            "Essorage + Vidange",
+            "Rinçage",
+            "Outdoor / Sport",
+            "Expert Taches",
+            "Hygiène+",
+            "Couette / Doudoune",
+            "Chemises",
+            "SteamCure"
+          ],
+          "sechant": false,
+          "prelavage": true,
+          "essorage": true,
+          "rinçage": true,
+          "thermostat_reglable": null,
+          "ecran": "Digital",
+          "verrouillage_enfant": true
+        },
+        "consommation": {
+          "eau_par_cycle_l": null,
+          "energie": "172 kWh",
+          "classe_energetique": "A+++"
+        },
+        "dimensions": {
+          "largeur_cm": 60,
+          "hauteur_cm": 84,
+          "profondeur_cm": 64,
+          "poids_kg": 76
+        },
+        "category": "washing-machine"
+      },
+      {
+        "marque": "BEKO",
+        "modele": "B3WFT510421W",
+        "reference": "B3WFT510421W",
+        "prix_dzd": 86000,
+        "couleur": "Blanc",
+        "categorie": "Frontal",
+        "type_pose": "Pose Libre",
+        "type_moteur": "Inverter",
+        "type_lave_linge": "Automatique",
+        "capacite_chargement_kg": 10,
+        "vitesse_essorage_tr_min": 1400,
+        "programmes_fonctions": {
+          "nombre_programmes": 15,
+          "details": [
+            "Coton",
+            "Coton Eco",
+            "Synthétique",
+            "Express 14'",
+            "Laine/Lavage à la main",
+            "DarkWash/Jeans",
+            "Programme téléchargeable",
+            "Essorage + Vidange",
+            "Rinçage",
+            "Outdoor / Sport",
+            "Expert Taches",
+            "Hygiène+",
+            "Couette / Doudoune",
+            "Chemises",
+            "SteamCure"
+          ],
+          "sechant": false,
+          "prelavage": true,
+          "essorage": true,
+          "rinçage": true,
+          "thermostat_reglable": null,
+          "ecran": "Digital",
+          "verrouillage_enfant": true
+        },
+        "consommation": {
+          "eau_par_cycle_l": null,
+          "energie": "172 kWh",
+          "classe_energetique": "A+++"
+        },
+        "dimensions": {
+          "largeur_cm": 60,
+          "hauteur_cm": 84,
+          "profondeur_cm": 64,
+          "poids_kg": 76
+        },
+        "category": "washing-machine"
+      },
+      {
+        "marque": "BEKO",
+        "modele": "B3WFT510421S",
+        "reference": "B3WFT510421S",
+        "prix_dzd": 87000,
+        "couleur": "Silver",
+        "categorie": "Frontal",
+        "type_pose": "Pose Libre",
+        "type_moteur": "Inverter",
+        "type_lave_linge": "Automatique",
+        "capacite_chargement_kg": 10,
+        "vitesse_essorage_tr_min": 1400,
+        "programmes_fonctions": {
+          "nombre_programmes": 15,
+          "details": [
+            "Coton",
+            "Coton Eco",
+            "Synthétique",
+            "Express 14'",
+            "Laine/Lavage à la main",
+            "DarkWash/Jeans",
+            "Programme téléchargeable",
+            "Essorage + Vidange",
+            "Rinçage",
+            "Outdoor / Sport",
+            "Expert Taches",
+            "Hygiène+",
+            "Couette / Doudoune",
+            "Chemises",
+            "SteamCure"
+          ],
+          "sechant": false,
+          "prelavage": true,
+          "essorage": true,
+          "rinçage": true,
+          "thermostat_reglable": null,
+          "ecran": "Digital",
+          "verrouillage_enfant": true
+        },
+        "consommation": {
+          "eau_par_cycle_l": null,
+          "energie": "172 kWh",
+          "classe_energetique": "A+++"
+        },
+        "dimensions": {
+          "largeur_cm": 60,
+          "hauteur_cm": 84,
+          "profondeur_cm": 64,
+          "poids_kg": 76
+        },
+        "category": "washing-machine"
+      },
+      {
+        "marque": "BEKO",
+        "modele": "B3WFT58415W",
+        "reference": "B3WFT58415W",
+        "prix_dzd": 74000,
+        "couleur": "Blanc",
+        "categorie": "Frontal",
+        "type_pose": "Pose Libre",
+        "type_moteur": "Inverter",
+        "type_lave_linge": "Automatique",
+        "capacite_chargement_kg": 8,
+        "vitesse_essorage_tr_min": 1400,
+        "programmes_fonctions": {
+          "nombre_programmes": 15,
+          "details": [
+            "Coton",
+            "Coton Eco",
+            "Synthétique",
+            "Express 14'",
+            "Laine/Lavage à la main",
+            "DarkWash/Jeans",
+            "Programme téléchargeable",
+            "Essorage + Vidange",
+            "Rinçage",
+            "Outdoor / Sport",
+            "Expert Taches",
+            "Hygiène+",
+            "Couette / Doudoune",
+            "Chemises",
+            "SteamCure"
+          ],
+          "sechant": false,
+          "prelavage": true,
+          "essorage": true,
+          "rinçage": true,
+          "thermostat_reglable": null,
+          "ecran": "Digital",
+          "verrouillage_enfant": true
+        },
+        "consommation": {
+          "eau_par_cycle_l": null,
+          "energie": "152 kWh",
+          "classe_energetique": "A+++"
+        },
+        "dimensions": {
+          "largeur_cm": 60,
+          "hauteur_cm": 84,
+          "profondeur_cm": 64,
+          "poids_kg": 73
+        },
+        "category": "washing-machine"
+      },
+      {
+        "marque": "BEKO",
+        "modele": "B3WFT58415S",
+        "reference": "B3WFT58415S",
+        "prix_dzd": 75000,
+        "couleur": "Silver",
+        "categorie": "Frontal",
+        "type_pose": "Pose Libre",
+        "type_moteur": "Inverter",
+        "type_lave_linge": "Automatique",
+        "capacite_chargement_kg": 8,
+        "vitesse_essorage_tr_min": 1400,
+        "programmes_fonctions": {
+          "nombre_programmes": 15,
+          "details": [
+            "Coton",
+            "Coton Eco",
+            "Synthétique",
+            "Express 14'",
+            "Laine/Lavage à la main",
+            "DarkWash/Jeans",
+            "Programme téléchargeable",
+            "Essorage + Vidange",
+            "Rinçage",
+            "Outdoor / Sport",
+            "Expert Taches",
+            "Hygiène+",
+            "Couette / Doudoune",
+            "Chemises",
+            "SteamCure"
+          ],
+          "sechant": false,
+          "prelavage": true,
+          "essorage": true,
+          "rinçage": true,
+          "thermostat_reglable": null,
+          "ecran": "Digital",
+          "verrouillage_enfant": true
+        },
+        "consommation": {
+          "eau_par_cycle_l": null,
+          "energie": "152 kWh",
+          "classe_energetique": "A+++"
+        },
+        "dimensions": {
+          "largeur_cm": 60,
+          "hauteur_cm": 84,
+          "profondeur_cm": 64,
+          "poids_kg": 73
+        },
+        "category": "washing-machine"
+      },
+      {
+        "marque": "BEKO",
+        "modele": "B3WFT510421MG",
+        "reference": "B3WFT510421MG",
+        "prix_dzd": 88000,
+        "couleur": "Manhattan grey",
+        "categorie": "Frontal",
+        "type_pose": "Pose Libre",
+        "type_moteur": "Inverter",
+        "type_lave_linge": "Automatique",
+        "capacite_chargement_kg": 10,
+        "vitesse_essorage_tr_min": 1400,
+        "programmes_fonctions": {
+          "nombre_programmes": 15,
+          "details": [
+            "Coton",
+            "Coton Eco",
+            "Synthétique",
+            "Express 14'",
+            "Laine/Lavage à la main",
+            "DarkWash/Jeans",
+            "Programme téléchargeable",
+            "Essorage + Vidange",
+            "Rinçage",
+            "Outdoor / Sport",
+            "Expert Taches",
+            "Hygiène+",
+            "Couette / Doudoune",
+            "Chemises",
+            "SteamCure"
+          ],
+          "sechant": false,
+          "prelavage": true,
+          "essorage": true,
+          "rinçage": true,
+          "thermostat_reglable": null,
+          "ecran": "Digital",
+          "verrouillage_enfant": true
+        },
+        "consommation": {
+          "eau_par_cycle_l": null,
+          "energie": "172 kWh",
+          "classe_energetique": "A+++"
+        },
+        "dimensions": {
+          "largeur_cm": 60,
+          "hauteur_cm": 84,
+          "profondeur_cm": 64,
+          "poids_kg": 76
+        },
+        "category": "washing-machine"
+      },
+      {
+        "marque": "BEKO",
+        "modele": "B3WFT510421B",
+        "reference": "B3WFT510421B",
+        "prix_dzd": 89000,
+        "couleur": "Noir",
+        "categorie": "Frontal",
+        "type_pose": "Pose Libre",
+        "type_moteur": "Inverter",
+        "type_lave_linge": "Automatique",
+        "capacite_chargement_kg": 10,
+        "vitesse_essorage_tr_min": 1400,
+        "programmes_fonctions": {
+          "nombre_programmes": 15,
+          "details": [
+            "Coton",
+            "Coton Eco",
+            "Synthétique",
+            "Express 14'",
+            "Laine/Lavage à la main",
+            "DarkWash/Jeans",
+            "Programme téléchargeable",
+            "Essorage + Vidange",
+            "Rinçage",
+            "Outdoor / Sport",
+            "Expert Taches",
+            "Hygiène+",
+            "Couette / Doudoune",
+            "Chemises",
+            "SteamCure"
+          ],
+          "sechant": false,
+          "prelavage": true,
+          "essorage": true,
+          "rinçage": true,
+          "thermostat_reglable": null,
+          "ecran": "Digital",
+          "verrouillage_enfant": true
+        },
+        "consommation": {
+          "eau_par_cycle_l": null,
+          "energie": "172 kWh",
+          "classe_energetique": "A+++"
+        },
+        "dimensions": {
+          "largeur_cm": 60,
+          "hauteur_cm": 84,
+          "profondeur_cm": 64,
+          "poids_kg": 76
+        },
+        "category": "washing-machine"
+      },
+      {
+        "marque": "BEKO",
+        "modele": "B3WFT912421W",
+        "reference": "B3WFT912421W",
+        "prix_dzd": 97000,
+        "couleur": "Blanc",
+        "categorie": "Frontal",
+        "type_pose": "Pose Libre",
+        "type_moteur": "Inverter",
+        "type_lave_linge": "Automatique",
+        "capacite_chargement_kg": 12,
+        "vitesse_essorage_tr_min": 1400,
+        "programmes_fonctions": {
+          "nombre_programmes": 15,
+          "details": [
+            "Coton",
+            "Coton Eco",
+            "Synthétique",
+            "Express 14'",
+            "Laine/Lavage à la main",
+            "DarkWash/Jeans",
+            "Programme téléchargeable",
+            "Essorage + Vidange",
+            "Rinçage",
+            "Outdoor / Sport",
+            "Expert Taches",
+            "Hygiène+",
+            "Couette / Doudoune",
+            "Chemises",
+            "SteamCure"
+          ],
+          "sechant": false,
+          "prelavage": true,
+          "essorage": true,
+          "rinçage": true,
+          "thermostat_reglable": null,
+          "ecran": "Digital",
+          "verrouillage_enfant": true
+        },
+        "consommation": {
+          "eau_par_cycle_l": null,
+          "energie": "252 kWh",
+          "classe_energetique": "A+++"
+        },
+        "dimensions": {
+          "largeur_cm": 60,
+          "hauteur_cm": 84.5,
+          "profondeur_cm": 63,
+          "poids_kg": 78
+        },
+        "category": "washing-machine"
+      },
+      {
+        "marque": "BEKO",
+        "modele": "B3WFT912421S",
+        "reference": "B3WFT912421S",
+        "prix_dzd": 98000,
+        "couleur": "Silver",
+        "categorie": "Frontal",
+        "type_pose": "Pose Libre",
+        "type_moteur": "Inverter",
+        "type_lave_linge": "Automatique",
+        "capacite_chargement_kg": 12,
+        "vitesse_essorage_tr_min": 1400,
+        "programmes_fonctions": {
+          "nombre_programmes": 15,
+          "details": [
+            "Coton",
+            "Coton Eco",
+            "Synthétique",
+            "Express 14'",
+            "Laine/Lavage à la main",
+            "DarkWash/Jeans",
+            "Programme téléchargeable",
+            "Essorage + Vidange",
+            "Rinçage",
+            "Outdoor / Sport",
+            "Expert Taches",
+            "Hygiène+",
+            "Couette / Doudoune",
+            "Chemises",
+            "SteamCure"
+          ],
+          "sechant": false,
+          "prelavage": true,
+          "essorage": true,
+          "rinçage": true,
+          "thermostat_reglable": null,
+          "ecran": "Digital",
+          "verrouillage_enfant": true
+        },
+        "consommation": {
+          "eau_par_cycle_l": null,
+          "energie": "252 kWh",
+          "classe_energetique": "A+++"
+        },
+        "dimensions": {
+          "largeur_cm": 60,
+          "hauteur_cm": 84.5,
+          "profondeur_cm": 63,
+          "poids_kg": 78
+        },
+        "category": "washing-machine"
+      },
+      {
+        "marque": "BEKO",
+        "modele": "B3WFT912421B",
+        "reference": "B3WFT912421B",
+        "prix_dzd": 99000,
+        "couleur": "Noir",
+        "categorie": "Frontal",
+        "type_pose": "Pose Libre",
+        "type_moteur": "Inverter",
+        "type_lave_linge": "Automatique",
+        "capacite_chargement_kg": 12,
+        "vitesse_essorage_tr_min": 1400,
+        "programmes_fonctions": {
+          "nombre_programmes": 15,
+          "details": [
+            "Coton",
+            "Coton Eco",
+            "Synthétique",
+            "Express 14'",
+            "Laine/Lavage à la main",
+            "DarkWash/Jeans",
+            "Programme téléchargeable",
+            "Essorage + Vidange",
+            "Rinçage",
+            "Outdoor / Sport",
+            "Expert Taches",
+            "Hygiène+",
+            "Couette / Doudoune",
+            "Chemises",
+            "SteamCure"
+          ],
+          "sechant": false,
+          "prelavage": true,
+          "essorage": true,
+          "rinçage": true,
+          "thermostat_reglable": null,
+          "ecran": "Digital",
+          "verrouillage_enfant": true
+        },
+        "consommation": {
+          "eau_par_cycle_l": null,
+          "energie": "252 kWh",
+          "classe_energetique": "A+++"
+        },
+        "dimensions": {
+          "largeur_cm": 60,
+          "hauteur_cm": 84.5,
+          "profondeur_cm": 63,
+          "poids_kg": 78
+        },
+        "category": "washing-machine"
+      },
+      {
+        "marque": "BEKO",
+        "modele": "B3WFT912421MG",
+        "reference": "B3WFT912421MG",
+        "prix_dzd": 98500,
+        "couleur": "Manhattan grey",
+        "categorie": "Frontal",
+        "type_pose": "Pose Libre",
+        "type_moteur": "Inverter",
+        "type_lave_linge": "Automatique",
+        "capacite_chargement_kg": 12,
+        "vitesse_essorage_tr_min": 1400,
+        "programmes_fonctions": {
+          "nombre_programmes": 15,
+          "details": [
+            "Coton",
+            "Coton Eco",
+            "Synthétique",
+            "Express 14'",
+            "Laine/Lavage à la main",
+            "DarkWash/Jeans",
+            "Programme téléchargeable",
+            "Essorage + Vidange",
+            "Rinçage",
+            "Outdoor / Sport",
+            "Expert Taches",
+            "Hygiène+",
+            "Couette / Doudoune",
+            "Chemises",
+            "SteamCure"
+          ],
+          "sechant": false,
+          "prelavage": true,
+          "essorage": true,
+          "rinçage": true,
+          "thermostat_reglable": null,
+          "ecran": "Digital",
+          "verrouillage_enfant": true
+        },
+        "consommation": {
+          "eau_par_cycle_l": null,
+          "energie": "252 kWh",
+          "classe_energetique": "A+++"
+        },
+        "dimensions": {
+          "largeur_cm": 60,
+          "hauteur_cm": 84.5,
+          "profondeur_cm": 63,
+          "poids_kg": 78
+        },
+        "category": "washing-machine"
+      },
+      {
+        "marque": "BEKO",
+        "modele": "B5WFT89415W",
+        "reference": "B5WFT89415W",
+        "prix_dzd": 109000,
+        "couleur": "Blanc",
+        "categorie": "Frontal",
+        "type_pose": "Pose Libre",
+        "type_moteur": "Inverter",
+        "type_lave_linge": "Automatique",
+        "capacite_chargement_kg": 9,
+        "vitesse_essorage_tr_min": 1400,
+        "programmes_fonctions": {
+          "nombre_programmes": 15,
+          "details": [
+            "Coton",
+            "Coton Eco",
+            "Synthétique",
+            "Express 14'",
+            "Laine/Lavage à la main",
+            "DarkWash/Jeans",
+            "Programme téléchargeable",
+            "Essorage + Vidange",
+            "Rinçage",
+            "Outdoor / Sport",
+            "Expert Taches",
+            "Hygiène+",
+            "Couette / Doudoune",
+            "Chemises",
+            "SteamCure"
+          ],
+          "sechant": false,
+          "prelavage": true,
+          "essorage": true,
+          "rinçage": true,
+          "thermostat_reglable": null,
+          "ecran": "Digital",
+          "verrouillage_enfant": true
+        },
+        "consommation": {
+          "eau_par_cycle_l": null,
+          "energie": "175 kWh",
+          "classe_energetique": "A+++"
+        },
+        "dimensions": {
+          "largeur_cm": 60,
+          "hauteur_cm": 84,
+          "profondeur_cm": 64,
+          "poids_kg": 75
+        },
+        "category": "washing-machine"
+      },
+      {
+        "marque": "BEKO",
+        "modele": "B5WFT89415S",
+        "reference": "B5WFT89415S",
+        "prix_dzd": 110000,
+        "couleur": "Silver",
+        "categorie": "Frontal",
+        "type_pose": "Pose Libre",
+        "type_moteur": "Inverter",
+        "type_lave_linge": "Automatique",
+        "capacite_chargement_kg": 9,
+        "vitesse_essorage_tr_min": 1400,
+        "programmes_fonctions": {
+          "nombre_programmes": 15,
+          "details": [
+            "Coton",
+            "Coton Eco",
+            "Synthétique",
+            "Express 14'",
+            "Laine/Lavage à la main",
+            "DarkWash/Jeans",
+            "Programme téléchargeable",
+            "Essorage + Vidange",
+            "Rinçage",
+            "Outdoor / Sport",
+            "Expert Taches",
+            "Hygiène+",
+            "Couette / Doudoune",
+            "Chemises",
+            "SteamCure"
+          ],
+          "sechant": false,
+          "prelavage": true,
+          "essorage": true,
+          "rinçage": true,
+          "thermostat_reglable": null,
+          "ecran": "Digital",
+          "verrouillage_enfant": true
+        },
+        "consommation": {
+          "eau_par_cycle_l": null,
+          "energie": "175 kWh",
+          "classe_energetique": "A+++"
+        },
+        "dimensions": {
+          "largeur_cm": 60,
+          "hauteur_cm": 84,
+          "profondeur_cm": 64,
+          "poids_kg": 75
+        },
+        "category": "washing-machine"
+      },
+      {
+        "marque": "BEKO",
+        "modele": "B5WFT89415B",
+        "reference": "B5WFT89415B",
+        "prix_dzd": 111000,
+        "couleur": "Noir",
+        "categorie": "Frontal",
+        "type_pose": "Pose Libre",
+        "type_moteur": "Inverter",
+        "type_lave_linge": "Automatique",
+        "capacite_chargement_kg": 9,
+        "vitesse_essorage_tr_min": 1400,
+        "programmes_fonctions": {
+          "nombre_programmes": 15,
+          "details": [
+            "Coton",
+            "Coton Eco",
+            "Synthétique",
+            "Express 14'",
+            "Laine/Lavage à la main",
+            "DarkWash/Jeans",
+            "Programme téléchargeable",
+            "Essorage + Vidange",
+            "Rinçage",
+            "Outdoor / Sport",
+            "Expert Taches",
+            "Hygiène+",
+            "Couette / Doudoune",
+            "Chemises",
+            "SteamCure"
+          ],
+          "sechant": false,
+          "prelavage": true,
+          "essorage": true,
+          "rinçage": true,
+          "thermostat_reglable": null,
+          "ecran": "Digital",
+          "verrouillage_enfant": true
+        },
+        "consommation": {
+          "eau_par_cycle_l": null,
+          "energie": "175 kWh",
+          "classe_energetique": "A+++"
+        },
+        "dimensions": {
+          "largeur_cm": 60,
+          "hauteur_cm": 84,
+          "profondeur_cm": 64,
+          "poids_kg": 75
+        },
+        "category": "washing-machine"
+      },
+      {
+        "marque": "BEKO",
+        "modele": "B3WFT510421W",
+        "reference": "B3WFT510421W",
+        "prix_dzd": 89000,
+        "couleur": "Blanc",
+        "categorie": "Frontal",
+        "type_pose": "Pose Libre",
+        "type_moteur": "Inverter",
+        "type_lave_linge": "Automatique",
+        "capacite_chargement_kg": 10,
+        "vitesse_essorage_tr_min": 1400,
+        "programmes_fonctions": {
+          "nombre_programmes": 15,
+          "details": [
+            "Coton", "Coton Eco", "Synthétique", "Express 14'", "Laine/Lavage à la main",
+            "DarkWash/Jeans", "Programme téléchargeable", "Essorage + Vidange",
+            "Rinçage", "Outdoor / Sport", "Expert Taches", "Hygiène+",
+            "Couette / Doudoune", "Chemises", "SteamCure"
+          ],
+          "sechant": false,
+          "prelavage": true,
+          "essorage": true,
+          "rinçage": true,
+          "thermostat_reglable": null,
+          "ecran": "Digital",
+          "verrouillage_enfant": true
+        },
+        "consommation": {
+          "eau_par_cycle_l": null,
+          "energie": "220 kWh",
+          "classe_energetique": "A+++"
+        },
+        "dimensions": {
+          "largeur_cm": 60,
+          "hauteur_cm": 84,
+          "profondeur_cm": 64,
+          "poids_kg": 76
+        },
+        "category": "washing-machine"
+      },
+      {
+        "marque": "BEKO",
+        "modele": "B3WFT510421S",
+        "reference": "B3WFT510421S",
+        "prix_dzd": 90000,
+        "couleur": "Silver",
+        "categorie": "Frontal",
+        "type_pose": "Pose Libre",
+        "type_moteur": "Inverter",
+        "type_lave_linge": "Automatique",
+        "capacite_chargement_kg": 10,
+        "vitesse_essorage_tr_min": 1400,
+        "programmes_fonctions": {
+          "nombre_programmes": 15,
+          "details": [
+            "Coton", "Coton Eco", "Synthétique", "Express 14'", "Laine/Lavage à la main",
+            "DarkWash/Jeans", "Programme téléchargeable", "Essorage + Vidange",
+            "Rinçage", "Outdoor / Sport", "Expert Taches", "Hygiène+",
+            "Couette / Doudoune", "Chemises", "SteamCure"
+          ],
+          "sechant": false,
+          "prelavage": true,
+          "essorage": true,
+          "rinçage": true,
+          "thermostat_reglable": null,
+          "ecran": "Digital",
+          "verrouillage_enfant": true
+        },
+        "consommation": {
+          "eau_par_cycle_l": null,
+          "energie": "220 kWh",
+          "classe_energetique": "A+++"
+        },
+        "dimensions": {
+          "largeur_cm": 60,
+          "hauteur_cm": 84,
+          "profondeur_cm": 64,
+          "poids_kg": 76
+        },
+        "category": "washing-machine"
+      },
+      {
+        "marque": "BEKO",
+        "modele": "B3WFT510421B",
+        "reference": "B3WFT510421B",
+        "prix_dzd": 90500,
+        "couleur": "Noir",
+        "categorie": "Frontal",
+        "type_pose": "Pose Libre",
+        "type_moteur": "Inverter",
+        "type_lave_linge": "Automatique",
+        "capacite_chargement_kg": 10,
+        "vitesse_essorage_tr_min": 1400,
+        "programmes_fonctions": {
+          "nombre_programmes": 15,
+          "details": [
+            "Coton", "Coton Eco", "Synthétique", "Express 14'", "Laine/Lavage à la main",
+            "DarkWash/Jeans", "Programme téléchargeable", "Essorage + Vidange",
+            "Rinçage", "Outdoor / Sport", "Expert Taches", "Hygiène+",
+            "Couette / Doudoune", "Chemises", "SteamCure"
+          ],
+          "sechant": false,
+          "prelavage": true,
+          "essorage": true,
+          "rinçage": true,
+          "thermostat_reglable": null,
+          "ecran": "Digital",
+          "verrouillage_enfant": true
+        },
+        "consommation": {
+          "eau_par_cycle_l": null,
+          "energie": "220 kWh",
+          "classe_energetique": "A+++"
+        },
+        "dimensions": {
+          "largeur_cm": 60,
+          "hauteur_cm": 84,
+          "profondeur_cm": 64,
+          "poids_kg": 76
+        },
+        "category": "washing-machine"
+      },
+      {
+        "marque": "BEKO",
+        "modele": "B3WFT99415W",
+        "reference": "B3WFT99415W",
+        "prix_dzd": 102000,
+        "couleur": "Blanc",
+        "categorie": "Frontal",
+        "type_pose": "Pose Libre",
+        "type_moteur": "Inverter",
+        "type_lave_linge": "Automatique",
+        "capacite_chargement_kg": 9,
+        "vitesse_essorage_tr_min": 1400,
+        "programmes_fonctions": {
+          "nombre_programmes": 15,
+          "details": [
+            "Coton", "Coton Eco", "Synthétique", "Express 14'", "Laine/Lavage à la main",
+            "DarkWash/Jeans", "Programme téléchargeable", "Essorage + Vidange",
+            "Rinçage", "Outdoor / Sport", "Expert Taches", "Hygiène+",
+            "Couette / Doudoune", "Chemises", "SteamCure"
+          ],
+          "sechant": false,
+          "prelavage": true,
+          "essorage": true,
+          "rinçage": true,
+          "thermostat_reglable": null,
+          "ecran": "Digital",
+          "verrouillage_enfant": true
+        },
+        "consommation": {
+          "eau_par_cycle_l": null,
+          "energie": "175 kWh",
+          "classe_energetique": "A+++"
+        },
+        "dimensions": {
+          "largeur_cm": 60,
+          "hauteur_cm": 84,
+          "profondeur_cm": 64,
+          "poids_kg": 75
+        },
+        "category": "washing-machine"
+      },
+      {
+        "marque": "BEKO",
+        "modele": "B3WFT99415S",
+        "reference": "B3WFT99415S",
+        "prix_dzd": 103500,
+        "couleur": "Silver",
+        "categorie": "Frontal",
+        "type_pose": "Pose Libre",
+        "type_moteur": "Inverter",
+        "type_lave_linge": "Automatique",
+        "capacite_chargement_kg": 9,
+        "vitesse_essorage_tr_min": 1400,
+        "programmes_fonctions": {
+          "nombre_programmes": 15,
+          "details": [
+            "Coton", "Coton Eco", "Synthétique", "Express 14'", "Laine/Lavage à la main",
+            "DarkWash/Jeans", "Programme téléchargeable", "Essorage + Vidange",
+            "Rinçage", "Outdoor / Sport", "Expert Taches", "Hygiène+",
+            "Couette / Doudoune", "Chemises", "SteamCure"
+          ],
+          "sechant": false,
+          "prelavage": true,
+          "essorage": true,
+          "rinçage": true,
+          "thermostat_reglable": null,
+          "ecran": "Digital",
+          "verrouillage_enfant": true
+        },
+        "consommation": {
+          "eau_par_cycle_l": null,
+          "energie": "175 kWh",
+          "classe_energetique": "A+++"
+        },
+        "dimensions": {
+          "largeur_cm": 60,
+          "hauteur_cm": 84,
+          "profondeur_cm": 64,
+          "poids_kg": 75
+        },
+        "category": "washing-machine"
+      },
+      {
+        "marque": "BEKO",
+        "modele": "B3WFT99415B",
+        "reference": "B3WFT99415B",
+        "prix_dzd": 104000,
+        "couleur": "Noir",
+        "categorie": "Frontal",
+        "type_pose": "Pose Libre",
+        "type_moteur": "Inverter",
+        "type_lave_linge": "Automatique",
+        "capacite_chargement_kg": 9,
+        "vitesse_essorage_tr_min": 1400,
+        "programmes_fonctions": {
+          "nombre_programmes": 15,
+          "details": [
+            "Coton", "Coton Eco", "Synthétique", "Express 14'", "Laine/Lavage à la main",
+            "DarkWash/Jeans", "Programme téléchargeable", "Essorage + Vidange",
+            "Rinçage", "Outdoor / Sport", "Expert Taches", "Hygiène+",
+            "Couette / Doudoune", "Chemises", "SteamCure"
+          ],
+          "sechant": false,
+          "prelavage": true,
+          "essorage": true,
+          "rinçage": true,
+          "thermostat_reglable": null,
+          "ecran": "Digital",
+          "verrouillage_enfant": true
+        },
+        "consommation": {
+          "eau_par_cycle_l": null,
+          "energie": "175 kWh",
+          "classe_energetique": "A+++"
+        },
+        "dimensions": {
+          "largeur_cm": 60,
+          "hauteur_cm": 84,
+          "profondeur_cm": 64,
+          "poids_kg": 75
+        },
+        "category": "washing-machine"
+      },
+      {
+        "marque": "BEKO",
+        "modele": "B5WFT510421W",
+        "reference": "B5WFT510421W",
+        "prix_dzd": 95000,
+        "couleur": "Blanc",
+        "categorie": "Frontal",
+        "type_pose": "Pose Libre",
+        "type_moteur": "ProSmart Inverter",
+        "type_lave_linge": "Automatique",
+        "capacite_chargement_kg": 10,
+        "vitesse_essorage_tr_min": 1400,
+        "programmes_fonctions": {
+          "nombre_programmes": 16,
+          "details": [
+            "Coton", "Coton Eco", "Synthétique", "Laine/Lavage à la main", "Hygiène+",
+            "Rinçage", "Essorage + Vidange", "Express 14'", "Chemises", "Couette/Doudoune",
+            "Sport", "DarkWash/Jeans", "Programme téléchargeable", "Anti-allergie",
+            "Prélavage", "SteamCure"
+          ],
+          "sechant": false,
+          "prelavage": true,
+          "essorage": true,
+          "rinçage": true,
+          "thermostat_reglable": null,
+          "ecran": "Digital",
+          "verrouillage_enfant": true
+        },
+        "consommation": {
+          "eau_par_cycle_l": 50,
+          "energie": "210 kWh",
+          "classe_energetique": "A+++"
+        },
+        "dimensions": {
+          "largeur_cm": 60,
+          "hauteur_cm": 84,
+          "profondeur_cm": 64,
+          "poids_kg": 77
+        },
+        "category": "washing-machine"
+      },
+      {
+        "marque": "BEKO",
+        "modele": "B5WFT510421S",
+        "reference": "B5WFT510421S",
+        "prix_dzd": 96000,
+        "couleur": "Silver",
+        "categorie": "Frontal",
+        "type_pose": "Pose Libre",
+        "type_moteur": "ProSmart Inverter",
+        "type_lave_linge": "Automatique",
+        "capacite_chargement_kg": 10,
+        "vitesse_essorage_tr_min": 1400,
+        "programmes_fonctions": {
+          "nombre_programmes": 16,
+          "details": [
+            "Coton", "Coton Eco", "Synthétique", "Laine/Lavage à la main", "Hygiène+",
+            "Rinçage", "Essorage + Vidange", "Express 14'", "Chemises", "Couette/Doudoune",
+            "Sport", "DarkWash/Jeans", "Programme téléchargeable", "Anti-allergie",
+            "Prélavage", "SteamCure"
+          ],
+          "sechant": false,
+          "prelavage": true,
+          "essorage": true,
+          "rinçage": true,
+          "thermostat_reglable": null,
+          "ecran": "Digital",
+          "verrouillage_enfant": true
+        },
+        "consommation": {
+          "eau_par_cycle_l": 50,
+          "energie": "210 kWh",
+          "classe_energetique": "A+++"
+        },
+        "dimensions": {
+          "largeur_cm": 60,
+          "hauteur_cm": 84,
+          "profondeur_cm": 64,
+          "poids_kg": 77
+        },
+        "category": "washing-machine"
+      },
+      {
+        "marque": "BEKO",
+        "modele": "B5WFT510421B",
+        "reference": "B5WFT510421B",
+        "prix_dzd": 97000,
+        "couleur": "Noir",
+        "categorie": "Frontal",
+        "type_pose": "Pose Libre",
+        "type_moteur": "ProSmart Inverter",
+        "type_lave_linge": "Automatique",
+        "capacite_chargement_kg": 10,
+        "vitesse_essorage_tr_min": 1400,
+        "programmes_fonctions": {
+          "nombre_programmes": 16,
+          "details": [
+            "Coton", "Coton Eco", "Synthétique", "Laine/Lavage à la main", "Hygiène+",
+            "Rinçage", "Essorage + Vidange", "Express 14'", "Chemises", "Couette/Doudoune",
+            "Sport", "DarkWash/Jeans", "Programme téléchargeable", "Anti-allergie",
+            "Prélavage", "SteamCure"
+          ],
+          "sechant": false,
+          "prelavage": true,
+          "essorage": true,
+          "rinçage": true,
+          "thermostat_reglable": null,
+          "ecran": "Digital",
+          "verrouillage_enfant": true
+        },
+        "consommation": {
+          "eau_par_cycle_l": 50,
+          "energie": "210 kWh",
+          "classe_energetique": "A+++"
+        },
+        "dimensions": {
+          "largeur_cm": 60,
+          "hauteur_cm": 84,
+          "profondeur_cm": 64,
+          "poids_kg": 77
+        },
+        "category": "washing-machine"
+      },
+      {
+        "marque": "BEKO",
+        "modele": "B5WFT97415W",
+        "reference": "B5WFT97415W",
+        "prix_dzd": 98000,
+        "couleur": "Blanc",
+        "categorie": "Frontal",
+        "type_pose": "Pose Libre",
+        "type_moteur": "ProSmart Inverter",
+        "type_lave_linge": "Automatique",
+        "capacite_chargement_kg": 9,
+        "vitesse_essorage_tr_min": 1400,
+        "programmes_fonctions": {
+          "nombre_programmes": 16,
+          "details": [
+            "Coton", "Coton Eco", "Synthétique", "Laine/Lavage à la main", "Hygiène+",
+            "Rinçage", "Essorage + Vidange", "Express 14'", "Chemises", "Couette/Doudoune",
+            "Sport", "DarkWash/Jeans", "Programme téléchargeable", "Anti-allergie",
+            "Prélavage", "SteamCure"
+          ],
+          "sechant": false,
+          "prelavage": true,
+          "essorage": true,
+          "rinçage": true,
+          "thermostat_reglable": null,
+          "ecran": "Digital",
+          "verrouillage_enfant": true
+        },
+        "consommation": {
+          "eau_par_cycle_l": 48,
+          "energie": "195 kWh",
+          "classe_energetique": "A+++"
+        },
+        "dimensions": {
+          "largeur_cm": 60,
+          "hauteur_cm": 84,
+          "profondeur_cm": 64,
+          "poids_kg": 75
+        },
+        "category": "washing-machine"
+      },
+      {
+        "marque": "BEKO",
+        "modele": "B5WFT97415S",
+        "reference": "B5WFT97415S",
+        "prix_dzd": 99000,
+        "couleur": "Silver",
+        "categorie": "Frontal",
+        "type_pose": "Pose Libre",
+        "type_moteur": "ProSmart Inverter",
+        "type_lave_linge": "Automatique",
+        "capacite_chargement_kg": 9,
+        "vitesse_essorage_tr_min": 1400,
+        "programmes_fonctions": {
+          "nombre_programmes": 16,
+          "details": [
+            "Coton", "Coton Eco", "Synthétique", "Laine/Lavage à la main", "Hygiène+",
+            "Rinçage", "Essorage + Vidange", "Express 14'", "Chemises", "Couette/Doudoune",
+            "Sport", "DarkWash/Jeans", "Programme téléchargeable", "Anti-allergie",
+            "Prélavage", "SteamCure"
+          ],
+          "sechant": false,
+          "prelavage": true,
+          "essorage": true,
+          "rinçage": true,
+          "thermostat_reglable": null,
+          "ecran": "Digital",
+          "verrouillage_enfant": true
+        },
+        "consommation": {
+          "eau_par_cycle_l": 48,
+          "energie": "195 kWh",
+          "classe_energetique": "A+++"
+        },
+        "dimensions": {
+          "largeur_cm": 60,
+          "hauteur_cm": 84,
+          "profondeur_cm": 64,
+          "poids_kg": 75
+        },
+        "category": "washing-machine"
+      },
+      {
+        "marque": "BEKO",
+        "modele": "B5WFT97415B",
+        "reference": "B5WFT97415B",
+        "prix_dzd": 99500,
+        "couleur": "Noir",
+        "categorie": "Frontal",
+        "type_pose": "Pose Libre",
+        "type_moteur": "ProSmart Inverter",
+        "type_lave_linge": "Automatique",
+        "capacite_chargement_kg": 9,
+        "vitesse_essorage_tr_min": 1400,
+        "programmes_fonctions": {
+          "nombre_programmes": 16,
+          "details": [
+            "Coton", "Coton Eco", "Synthétique", "Laine/Lavage à la main", "Hygiène+",
+            "Rinçage", "Essorage + Vidange", "Express 14'", "Chemises", "Couette/Doudoune",
+            "Sport", "DarkWash/Jeans", "Programme téléchargeable", "Anti-allergie",
+            "Prélavage", "SteamCure"
+          ],
+          "sechant": false,
+          "prelavage": true,
+          "essorage": true,
+          "rinçage": true,
+          "thermostat_reglable": null,
+          "ecran": "Digital",
+          "verrouillage_enfant": true
+        },
+        "consommation": {
+          "eau_par_cycle_l": 48,
+          "energie": "195 kWh",
+          "classe_energetique": "A+++"
+        },
+        "dimensions": {
+          "largeur_cm": 60,
+          "hauteur_cm": 84,
+          "profondeur_cm": 64,
+          "poids_kg": 75
+        },
+        "category": "washing-machine"
+      },
+      {
+        "marque": "BEKO",
+        "modele": "B5WFT98415W",
+        "reference": "B5WFT98415W",
+        "prix_dzd": 102000,
+        "couleur": "Blanc",
+        "categorie": "Frontal",
+        "type_pose": "Pose Libre",
+        "type_moteur": "ProSmart Inverter",
+        "type_lave_linge": "Automatique",
+        "capacite_chargement_kg": 9,
+        "vitesse_essorage_tr_min": 1600,
+        "programmes_fonctions": {
+          "nombre_programmes": 16,
+          "details": [
+            "Coton", "Coton Eco", "Synthétique", "Laine/Lavage à la main", "Hygiène+",
+            "Rinçage", "Essorage + Vidange", "Express 14'", "Chemises", "Couette/Doudoune",
+            "Sport", "DarkWash/Jeans", "Programme téléchargeable", "Anti-allergie",
+            "Prélavage", "SteamCure"
+          ],
+          "sechant": false,
+          "prelavage": true,
+          "essorage": true,
+          "rinçage": true,
+          "thermostat_reglable": null,
+          "ecran": "Digital",
+          "verrouillage_enfant": true
+        },
+        "consommation": {
+          "eau_par_cycle_l": 47,
+          "energie": "190 kWh",
+          "classe_energetique": "A+++"
+        },
+        "dimensions": {
+          "largeur_cm": 60,
+          "hauteur_cm": 84,
+          "profondeur_cm": 64,
+          "poids_kg": 76
+        },
+        "category": "washing-machine"
+      },
+      {
+        "marque": "BEKO",
+        "modele": "B5WFT98415S",
+        "reference": "B5WFT98415S",
+        "prix_dzd": 103000,
+        "couleur": "Silver",
+        "categorie": "Frontal",
+        "type_pose": "Pose Libre",
+        "type_moteur": "ProSmart Inverter",
+        "type_lave_linge": "Automatique",
+        "capacite_chargement_kg": 9,
+        "vitesse_essorage_tr_min": 1600,
+        "programmes_fonctions": {
+          "nombre_programmes": 16,
+          "details": [
+            "Coton", "Coton Eco", "Synthétique", "Laine/Lavage à la main", "Hygiène+",
+            "Rinçage", "Essorage + Vidange", "Express 14'", "Chemises", "Couette/Doudoune",
+            "Sport", "DarkWash/Jeans", "Programme téléchargeable", "Anti-allergie",
+            "Prélavage", "SteamCure"
+          ],
+          "sechant": false,
+          "prelavage": true,
+          "essorage": true,
+          "rinçage": true,
+          "thermostat_reglable": null,
+          "ecran": "Digital",
+          "verrouillage_enfant": true
+        },
+        "consommation": {
+          "eau_par_cycle_l": 47,
+          "energie": "190 kWh",
+          "classe_energetique": "A+++"
+        },
+        "dimensions": {
+          "largeur_cm": 60,
+          "hauteur_cm": 84,
+          "profondeur_cm": 64,
+          "poids_kg": 76
+        },
+        "category": "washing-machine"
+      },
+      {
+        "marque": "BEKO",
+        "modele": "B5WFT98415B",
+        "reference": "B5WFT98415B",
+        "prix_dzd": 104000,
+        "couleur": "Noir",
+        "categorie": "Frontal",
+        "type_pose": "Pose Libre",
+        "type_moteur": "ProSmart Inverter",
+        "type_lave_linge": "Automatique",
+        "capacite_chargement_kg": 9,
+        "vitesse_essorage_tr_min": 1600,
+        "programmes_fonctions": {
+          "nombre_programmes": 16,
+          "details": [
+            "Coton", "Coton Eco", "Synthétique", "Laine/Lavage à la main", "Hygiène+",
+            "Rinçage", "Essorage + Vidange", "Express 14'", "Chemises", "Couette/Doudoune",
+            "Sport", "DarkWash/Jeans", "Programme téléchargeable", "Anti-allergie",
+            "Prélavage", "SteamCure"
+          ],
+          "sechant": false,
+          "prelavage": true,
+          "essorage": true,
+          "rinçage": true,
+          "thermostat_reglable": null,
+          "ecran": "Digital",
+          "verrouillage_enfant": true
+        },
+        "consommation": {
+          "eau_par_cycle_l": 47,
+          "energie": "190 kWh",
+          "classe_energetique": "A+++"
+        },
+        "dimensions": {
+          "largeur_cm": 60,
+          "hauteur_cm": 84,
+          "profondeur_cm": 64,
+          "poids_kg": 76
+        },
+        "category": "washing-machine"
+      },
+      {
+        "marque": "BEKO",
+        "modele": "B3WFT58415W",
+        "reference": "B3WFT58415W",
+        "prix_dzd": 87000,
+        "couleur": "Blanc",
+        "categorie": "Frontal",
+        "type_pose": "Pose Libre",
+        "type_moteur": "Inverter",
+        "type_lave_linge": "Automatique",
+        "capacite_chargement_kg": 8,
+        "vitesse_essorage_tr_min": 1400,
+        "programmes_fonctions": {
+          "nombre_programmes": 15,
+          "details": [
+            "Coton", "Coton Eco", "Synthétique", "Express 14'", "Laine/Lavage à la main",
+            "DarkWash/Jeans", "Programmes téléchargeables", "Essorage + Vidange",
+            "Rinçage", "Outdoor / Sport", "Expert Taches", "Hygiène+",
+            "Couette / Doudoune", "Chemises", "SteamCure"
+          ],
+          "sechant": false,
+          "prelavage": true,
+          "essorage": true,
+          "rinçage": true,
+          "thermostat_reglable": null,
+          "ecran": "Digital",
+          "verrouillage_enfant": true
+        },
+        "consommation": {
+          "eau_par_cycle_l": 47,
+          "energie": "190 kWh",
+          "classe_energetique": "A+++"
+        },
+        "dimensions": {
+          "largeur_cm": 60,
+          "hauteur_cm": 84,
+          "profondeur_cm": 59,
+          "poids_kg": 74
+        },
+        "category": "washing-machine"
+      },
+      {
+        "marque": "BEKO",
+        "modele": "B3WFT58415S",
+        "reference": "B3WFT58415S",
+        "prix_dzd": 88000,
+        "couleur": "Silver",
+        "categorie": "Frontal",
+        "type_pose": "Pose Libre",
+        "type_moteur": "Inverter",
+        "type_lave_linge": "Automatique",
+        "capacite_chargement_kg": 8,
+        "vitesse_essorage_tr_min": 1400,
+        "programmes_fonctions": {
+          "nombre_programmes": 15,
+          "details": [
+            "Coton", "Coton Eco", "Synthétique", "Express 14'", "Laine/Lavage à la main",
+            "DarkWash/Jeans", "Programmes téléchargeables", "Essorage + Vidange",
+            "Rinçage", "Outdoor / Sport", "Expert Taches", "Hygiène+",
+            "Couette / Doudoune", "Chemises", "SteamCure"
+          ],
+          "sechant": false,
+          "prelavage": true,
+          "essorage": true,
+          "rinçage": true,
+          "thermostat_reglable": null,
+          "ecran": "Digital",
+          "verrouillage_enfant": true
+        },
+        "consommation": {
+          "eau_par_cycle_l": 47,
+          "energie": "190 kWh",
+          "classe_energetique": "A+++"
+        },
+        "dimensions": {
+          "largeur_cm": 60,
+          "hauteur_cm": 84,
+          "profondeur_cm": 59,
+          "poids_kg": 74
+        },
+        "category": "washing-machine"
+      },
+      {
+        "marque": "BEKO",
+        "modele": "B3WFT58415B",
+        "reference": "B3WFT58415B",
+        "prix_dzd": 89000,
+        "couleur": "Noir",
+        "categorie": "Frontal",
+        "type_pose": "Pose Libre",
+        "type_moteur": "Inverter",
+        "type_lave_linge": "Automatique",
+        "capacite_chargement_kg": 8,
+        "vitesse_essorage_tr_min": 1400,
+        "programmes_fonctions": {
+          "nombre_programmes": 15,
+          "details": [
+            "Coton", "Coton Eco", "Synthétique", "Express 14'", "Laine/Lavage à la main",
+            "DarkWash/Jeans", "Programmes téléchargeables", "Essorage + Vidange",
+            "Rinçage", "Outdoor / Sport", "Expert Taches", "Hygiène+",
+            "Couette / Doudoune", "Chemises", "SteamCure"
+          ],
+          "sechant": false,
+          "prelavage": true,
+          "essorage": true,
+          "rinçage": true,
+          "thermostat_reglable": null,
+          "ecran": "Digital",
+          "verrouillage_enfant": true
+        },
+        "consommation": {
+          "eau_par_cycle_l": 47,
+          "energie": "190 kWh",
+          "classe_energetique": "A+++"
+        },
+        "dimensions": {
+          "largeur_cm": 60,
+          "hauteur_cm": 84,
+          "profondeur_cm": 59,
+          "poids_kg": 74
+        },
+        "category": "washing-machine"
+      },
+      {
+        "marque": "BEKO",
+        "modele": "B5WFT89415W",
+        "reference": "B5WFT89415W",
+        "prix_dzd": 99000,
+        "couleur": "Blanc",
+        "categorie": "Frontal",
+        "type_pose": "Pose Libre",
+        "type_moteur": "ProSmart Inverter",
+        "type_lave_linge": "Automatique",
+        "capacite_chargement_kg": 8,
+        "vitesse_essorage_tr_min": 1600,
+        "programmes_fonctions": {
+          "nombre_programmes": 16,
+          "details": [
+            "Coton", "Coton Eco", "Synthétique", "Laine/Lavage à la main", "Hygiène+",
+            "Rinçage", "Essorage + Vidange", "Express 14'", "Chemises", "Couette/Doudoune",
+            "Sport", "DarkWash/Jeans", "Programme téléchargeable", "Anti-allergie",
+            "Prélavage", "SteamCure"
+          ],
+          "sechant": false,
+          "prelavage": true,
+          "essorage": true,
+          "rinçage": true,
+          "thermostat_reglable": null,
+          "ecran": "Digital",
+          "verrouillage_enfant": true
+        },
+        "consommation": {
+          "eau_par_cycle_l": 45,
+          "energie": "180 kWh",
+          "classe_energetique": "A+++"
+        },
+        "dimensions": {
+          "largeur_cm": 60,
+          "hauteur_cm": 84,
+          "profondeur_cm": 59,
+          "poids_kg": 75
+        },
+        "category": "washing-machine"
+      },
+      {
+        "marque": "BEKO",
+        "modele": "B5WFT89415S",
+        "reference": "B5WFT89415S",
+        "prix_dzd": 100000,
+        "couleur": "Silver",
+        "categorie": "Frontal",
+        "type_pose": "Pose Libre",
+        "type_moteur": "ProSmart Inverter",
+        "type_lave_linge": "Automatique",
+        "capacite_chargement_kg": 8,
+        "vitesse_essorage_tr_min": 1600,
+        "programmes_fonctions": {
+          "nombre_programmes": 16,
+          "details": [
+            "Coton", "Coton Eco", "Synthétique", "Laine/Lavage à la main", "Hygiène+",
+            "Rinçage", "Essorage + Vidange", "Express 14'", "Chemises", "Couette/Doudoune",
+            "Sport", "DarkWash/Jeans", "Programme téléchargeable", "Anti-allergie",
+            "Prélavage", "SteamCure"
+          ],
+          "sechant": false,
+          "prelavage": true,
+          "essorage": true,
+          "rinçage": true,
+          "thermostat_reglable": null,
+          "ecran": "Digital",
+          "verrouillage_enfant": true
+        },
+        "consommation": {
+          "eau_par_cycle_l": 45,
+          "energie": "180 kWh",
+          "classe_energetique": "A+++"
+        },
+        "dimensions": {
+          "largeur_cm": 60,
+          "hauteur_cm": 84,
+          "profondeur_cm": 59,
+          "poids_kg": 75
+        },
+        "category": "washing-machine"
+      },
+      {
+        "marque": "BEKO",
+        "modele": "B5WFT89415B",
+        "reference": "B5WFT89415B",
+        "prix_dzd": 101000,
+        "couleur": "Noir",
+        "categorie": "Frontal",
+        "type_pose": "Pose Libre",
+        "type_moteur": "ProSmart Inverter",
+        "type_lave_linge": "Automatique",
+        "capacite_chargement_kg": 8,
+        "vitesse_essorage_tr_min": 1600,
+        "programmes_fonctions": {
+          "nombre_programmes": 16,
+          "details": [
+            "Coton", "Coton Eco", "Synthétique", "Laine/Lavage à la main", "Hygiène+",
+            "Rinçage", "Essorage + Vidange", "Express 14'", "Chemises", "Couette/Doudoune",
+            "Sport", "DarkWash/Jeans", "Programme téléchargeable", "Anti-allergie",
+            "Prélavage", "SteamCure"
+          ],
+          "sechant": false,
+          "prelavage": true,
+          "essorage": true,
+          "rinçage": true,
+          "thermostat_reglable": null,
+          "ecran": "Digital",
+          "verrouillage_enfant": true
+        },
+        "consommation": {
+          "eau_par_cycle_l": 45,
+          "energie": "180 kWh",
+          "classe_energetique": "A+++"
+        },
+        "dimensions": {
+          "largeur_cm": 60,
+          "hauteur_cm": 84,
+          "profondeur_cm": 59,
+          "poids_kg": 75
+        },
+        "category": "washing-machine"
+      },
+      {
+        "marque": "BEKO",
+        "modele": "B3WFT77415W",
+        "reference": "B3WFT77415W",
+        "prix_dzd": 78000,
+        "couleur": "Blanc",
+        "categorie": "Frontal",
+        "type_pose": "Pose Libre",
+        "type_moteur": "Inverter",
+        "type_lave_linge": "Automatique",
+        "capacite_chargement_kg": 7,
+        "vitesse_essorage_tr_min": 1400,
+        "programmes_fonctions": {
+          "nombre_programmes": 15,
+          "details": [
+            "Coton", "Coton Eco", "Synthétique", "Express 14'", "Laine/Lavage à la main",
+            "DarkWash/Jeans", "Programmes téléchargeables", "Essorage + Vidange",
+            "Rinçage", "Outdoor / Sport", "Expert Taches", "Hygiène+",
+            "Couette / Doudoune", "Chemises", "SteamCure"
+          ],
+          "sechant": false,
+          "prelavage": true,
+          "essorage": true,
+          "rinçage": true,
+          "thermostat_reglable": null,
+          "ecran": "Digital",
+          "verrouillage_enfant": true
+        },
+        "consommation": {
+          "eau_par_cycle_l": 42,
+          "energie": "170 kWh",
+          "classe_energetique": "A+++"
+        },
+        "dimensions": {
+          "largeur_cm": 60,
+          "hauteur_cm": 84,
+          "profondeur_cm": 55,
+          "poids_kg": 70
+        },
+        "category": "washing-machine"
+      },
+      {
+        "marque": "BEKO",
+        "modele": "B3WFT77415S",
+        "reference": "B3WFT77415S",
+        "prix_dzd": 79000,
+        "couleur": "Silver",
+        "categorie": "Frontal",
+        "type_pose": "Pose Libre",
+        "type_moteur": "Inverter",
+        "type_lave_linge": "Automatique",
+        "capacite_chargement_kg": 7,
+        "vitesse_essorage_tr_min": 1400,
+        "programmes_fonctions": {
+          "nombre_programmes": 15,
+          "details": [
+            "Coton", "Coton Eco", "Synthétique", "Express 14'", "Laine/Lavage à la main",
+            "DarkWash/Jeans", "Programmes téléchargeables", "Essorage + Vidange",
+            "Rinçage", "Outdoor / Sport", "Expert Taches", "Hygiène+",
+            "Couette / Doudoune", "Chemises", "SteamCure"
+          ],
+          "sechant": false,
+          "prelavage": true,
+          "essorage": true,
+          "rinçage": true,
+          "thermostat_reglable": null,
+          "ecran": "Digital",
+          "verrouillage_enfant": true
+        },
+        "consommation": {
+          "eau_par_cycle_l": 42,
+          "energie": "170 kWh",
+          "classe_energetique": "A+++"
+        },
+        "dimensions": {
+          "largeur_cm": 60,
+          "hauteur_cm": 84,
+          "profondeur_cm": 55,
+          "poids_kg": 70
+        },
+        "category": "washing-machine"
+      },
+      {
+        "marque": "BEKO",
+        "modele": "B3WFT77415B",
+        "reference": "B3WFT77415B",
+        "prix_dzd": 80000,
+        "couleur": "Noir",
+        "categorie": "Frontal",
+        "type_pose": "Pose Libre",
+        "type_moteur": "Inverter",
+        "type_lave_linge": "Automatique",
+        "capacite_chargement_kg": 7,
+        "vitesse_essorage_tr_min": 1400,
+        "programmes_fonctions": {
+          "nombre_programmes": 15,
+          "details": [
+            "Coton", "Coton Eco", "Synthétique", "Express 14'", "Laine/Lavage à la main",
+            "DarkWash/Jeans", "Programmes téléchargeables", "Essorage + Vidange",
+            "Rinçage", "Outdoor / Sport", "Expert Taches", "Hygiène+",
+            "Couette / Doudoune", "Chemises", "SteamCure"
+          ],
+          "sechant": false,
+          "prelavage": true,
+          "essorage": true,
+          "rinçage": true,
+          "thermostat_reglable": null,
+          "ecran": "Digital",
+          "verrouillage_enfant": true
+        },
+        "consommation": {
+          "eau_par_cycle_l": 42,
+          "energie": "170 kWh",
+          "classe_energetique": "A+++"
+        },
+        "dimensions": {
+          "largeur_cm": 60,
+          "hauteur_cm": 84,
+          "profondeur_cm": 55,
+          "poids_kg": 70
+        },
+        "category": "washing-machine"
+      },
+      {
+        "marque": "BEKO",
+        "modele": "B3WFT61011W",
+        "reference": "B3WFT61011W",
+        "prix_dzd": 72000,
+        "couleur": "Blanc",
+        "categorie": "Frontal",
+        "type_pose": "Pose Libre",
+        "type_moteur": "Inverter",
+        "type_lave_linge": "Automatique",
+        "capacite_chargement_kg": 6,
+        "vitesse_essorage_tr_min": 1000,
+        "programmes_fonctions": {
+          "nombre_programmes": 15,
+          "details": [
+            "Coton", "Coton Eco", "Synthétique", "Express 14'", "Laine/Lavage à la main",
+            "DarkWash/Jeans", "Programmes téléchargeables", "Essorage + Vidange",
+            "Rinçage", "Outdoor / Sport", "Expert Taches", "Hygiène+",
+            "Couette / Doudoune", "Chemises", "SteamCure"
+          ],
+          "sechant": false,
+          "prelavage": true,
+          "essorage": true,
+          "rinçage": true,
+          "thermostat_reglable": null,
+          "ecran": "Digital",
+          "verrouillage_enfant": true
+        },
+        "consommation": {
+          "eau_par_cycle_l": 40,
+          "energie": "150 kWh",
+          "classe_energetique": "A++"
+        },
+        "dimensions": {
+          "largeur_cm": 60,
+          "hauteur_cm": 84,
+          "profondeur_cm": 49,
+          "poids_kg": 68
+        },
+        "category": "washing-machine"
+      },
+      {
+        "marque": "BEKO",
+        "modele": "B3WFT61011S",
+        "reference": "B3WFT61011S",
+        "prix_dzd": 73000,
+        "couleur": "Silver",
+        "categorie": "Frontal",
+        "type_pose": "Pose Libre",
+        "type_moteur": "Inverter",
+        "type_lave_linge": "Automatique",
+        "capacite_chargement_kg": 6,
+        "vitesse_essorage_tr_min": 1000,
+        "programmes_fonctions": {
+          "nombre_programmes": 15,
+          "details": [
+            "Coton", "Coton Eco", "Synthétique", "Express 14'", "Laine/Lavage à la main",
+            "DarkWash/Jeans", "Programmes téléchargeables", "Essorage + Vidange",
+            "Rinçage", "Outdoor / Sport", "Expert Taches", "Hygiène+",
+            "Couette / Doudoune", "Chemises", "SteamCure"
+          ],
+          "sechant": false,
+          "prelavage": true,
+          "essorage": true,
+          "rinçage": true,
+          "thermostat_reglable": null,
+          "ecran": "Digital",
+          "verrouillage_enfant": true
+        },
+        "consommation": {
+          "eau_par_cycle_l": 40,
+          "energie": "150 kWh",
+          "classe_energetique": "A++"
+        },
+        "dimensions": {
+          "largeur_cm": 60,
+          "hauteur_cm": 84,
+          "profondeur_cm": 49,
+          "poids_kg": 68
+        },
+        "category": "washing-machine"
+      },
+      {
+        "marque": "BEKO",
+        "modele": "B3WFT61011B",
+        "reference": "B3WFT61011B",
+        "prix_dzd": 74000,
+        "couleur": "Noir",
+        "categorie": "Frontal",
+        "type_pose": "Pose Libre",
+        "type_moteur": "Inverter",
+        "type_lave_linge": "Automatique",
+        "capacite_chargement_kg": 6,
+        "vitesse_essorage_tr_min": 1000,
+        "programmes_fonctions": {
+          "nombre_programmes": 15,
+          "details": [
+            "Coton", "Coton Eco", "Synthétique", "Express 14'", "Laine/Lavage à la main",
+            "DarkWash/Jeans", "Programmes téléchargeables", "Essorage + Vidange",
+            "Rinçage", "Outdoor / Sport", "Expert Taches", "Hygiène+",
+            "Couette / Doudoune", "Chemises", "SteamCure"
+          ],
+          "sechant": false,
+          "prelavage": true,
+          "essorage": true,
+          "rinçage": true,
+          "thermostat_reglable": null,
+          "ecran": "Digital",
+          "verrouillage_enfant": true
+        },
+        "consommation": {
+          "eau_par_cycle_l": 40,
+          "energie": "150 kWh",
+          "classe_energetique": "A++"
+        },
+        "dimensions": {
+          "largeur_cm": 60,
+          "hauteur_cm": 84,
+          "profondeur_cm": 49,
+          "poids_kg": 68
+        },
+        "category": "washing-machine"
+      },
+      {
+        "marque": "BEKO",
+        "modele": "B3WFT59615W",
+        "reference": "B3WFT59615W",
+        "prix_dzd": 97000,
+        "couleur": "Blanc",
+        "categorie": "Frontal",
+        "type_pose": "Pose Libre",
+        "type_moteur": "ProSmart Inverter",
+        "type_lave_linge": "Automatique",
+        "capacite_chargement_kg": 9,
+        "vitesse_essorage_tr_min": 1600,
+        "programmes_fonctions": {
+          "nombre_programmes": 16,
+          "details": [
+            "Coton", "Coton Eco", "Synthétique", "Laine/Lavage à la main", "Hygiène+",
+            "Rinçage", "Essorage + Vidange", "Express 14'", "Chemises", "Couette/Doudoune",
+            "Sport", "DarkWash/Jeans", "Programme téléchargeable", "Anti-allergie",
+            "Prélavage", "SteamCure"
+          ],
+          "sechant": false,
+          "prelavage": true,
+          "essorage": true,
+          "rinçage": true,
+          "thermostat_reglable": null,
+          "ecran": "Digital",
+          "verrouillage_enfant": true
+        },
+        "consommation": {
+          "eau_par_cycle_l": 50,
+          "energie": "190 kWh",
+          "classe_energetique": "A+++"
+        },
+        "dimensions": {
+          "largeur_cm": 60,
+          "hauteur_cm": 84,
+          "profondeur_cm": 64,
+          "poids_kg": 78
+        },
+        "category": "washing-machine"
+      },
+      {
+        "marque": "BEKO",
+        "modele": "B3WFT59615S",
+        "reference": "B3WFT59615S",
+        "prix_dzd": 98000,
+        "couleur": "Silver",
+        "categorie": "Frontal",
+        "type_pose": "Pose Libre",
+        "type_moteur": "ProSmart Inverter",
+        "type_lave_linge": "Automatique",
+        "capacite_chargement_kg": 9,
+        "vitesse_essorage_tr_min": 1600,
+        "programmes_fonctions": {
+          "nombre_programmes": 16,
+          "details": [
+            "Coton", "Coton Eco", "Synthétique", "Laine/Lavage à la main", "Hygiène+",
+            "Rinçage", "Essorage + Vidange", "Express 14'", "Chemises", "Couette/Doudoune",
+            "Sport", "DarkWash/Jeans", "Programme téléchargeable", "Anti-allergie",
+            "Prélavage", "SteamCure"
+          ],
+          "sechant": false,
+          "prelavage": true,
+          "essorage": true,
+          "rinçage": true,
+          "thermostat_reglable": null,
+          "ecran": "Digital",
+          "verrouillage_enfant": true
+        },
+        "consommation": {
+          "eau_par_cycle_l": 50,
+          "energie": "190 kWh",
+          "classe_energetique": "A+++"
+        },
+        "dimensions": {
+          "largeur_cm": 60,
+          "hauteur_cm": 84,
+          "profondeur_cm": 64,
+          "poids_kg": 78
+        },
+        "category": "washing-machine"
+      },
+      {
+        "marque": "BEKO",
+        "modele": "B3WFT59615B",
+        "reference": "B3WFT59615B",
+        "prix_dzd": 99000,
+        "couleur": "Noir",
+        "categorie": "Frontal",
+        "type_pose": "Pose Libre",
+        "type_moteur": "ProSmart Inverter",
+        "type_lave_linge": "Automatique",
+        "capacite_chargement_kg": 9,
+        "vitesse_essorage_tr_min": 1600,
+        "programmes_fonctions": {
+          "nombre_programmes": 16,
+          "details": [
+            "Coton", "Coton Eco", "Synthétique", "Laine/Lavage à la main", "Hygiène+",
+            "Rinçage", "Essorage + Vidange", "Express 14'", "Chemises", "Couette/Doudoune",
+            "Sport", "DarkWash/Jeans", "Programme téléchargeable", "Anti-allergie",
+            "Prélavage", "SteamCure"
+          ],
+          "sechant": false,
+          "prelavage": true,
+          "essorage": true,
+          "rinçage": true,
+          "thermostat_reglable": null,
+          "ecran": "Digital",
+          "verrouillage_enfant": true
+        },
+        "consommation": {
+          "eau_par_cycle_l": 50,
+          "energie": "190 kWh",
+          "classe_energetique": "A+++"
+        },
+        "dimensions": {
+          "largeur_cm": 60,
+          "hauteur_cm": 84,
+          "profondeur_cm": 64,
+          "poids_kg": 78
+        },
+    "category": "washing-machine"
+    }
+  ]
+}
+
+
+
+
+
+
+
