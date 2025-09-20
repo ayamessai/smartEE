@@ -1,5 +1,6 @@
 import React, { useState, useEffect, useRef } from "react";
-import axios from "axios";
+//import axios from "axios";
+import api from "../api";
 import { useNavigate } from "react-router-dom";
 
 export default function ComparaisonEnergie() {
@@ -15,9 +16,8 @@ export default function ComparaisonEnergie() {
 
   const fetchProduits = async (cat) => {
     try {
-      const res = await axios.get(
-        `http://localhost:4000/api/products?category=${cat}`
-      );
+      //const res = await axios.get( `http://localhost:4000/api/products?category=${cat}`);
+      const res = await api.get(`/products?category=${cat}`);
       setProduits(res.data.products || []);
       setSelectionnes([]);
     } catch (err) {
